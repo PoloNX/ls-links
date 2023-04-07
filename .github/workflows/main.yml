@@ -4,28 +4,27 @@ on:
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
-  
+
 jobs:
   ls-links:
     runs-on: ubuntu-latest
-    
+
     steps:
-      -uses: actions/checkout@v2
-      
-      -name: Set up Python 3.x
-       uses: actions/setup-python@v1
-       with:
-        python-version: 3.x
-      
-      -name: Install dependencies
-       run: |
+      - uses: actions/checkout@v2
+
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: |
           if [ -f ./scripts/requirements.txt ]; then pip3 install -r ./scripts/requirements.txt; fi
-          
       - name: update files
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python3 ./scripts/main.py -gt="$GITHUB_TOKEN"
+          python3 ./scripts/news.py -gt="$GITHUB_TOKEN"
       - name: push changes
         run: |
           git config --global user.name 'HomletBot'
