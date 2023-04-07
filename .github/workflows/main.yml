@@ -21,8 +21,10 @@ jobs:
         run: |
           if [ -f requirements.txt ]; then pip3 install -r requirements.txt; fi
       - name: update files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python3 news.py
+          python3 ./scripts/main.py -gt="$GITHUB_TOKEN"
       - name: push changes
         run: |
           git config --global user.name 'PoloNXBot'
