@@ -24,7 +24,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python3 ./scripts/main.py -gt="$GITHUB_TOKEN"
+          python3 news.py -gt="$GITHUB_TOKEN"
       - name: push changes
         run: |
           git config --global user.name 'PoloNXBot'
