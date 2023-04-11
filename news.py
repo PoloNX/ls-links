@@ -22,7 +22,11 @@ for index, item in enumerate(soup.select('item')):
     soup_item = BeautifulSoup(item.description.text, features="html.parser")
     img_tags = soup_item.find_all('img')
     for img_index, img_tag in enumerate(img_tags):
-        images[f"image_{img_index+1}"] = img_tag['src']
+        img_src = img_tag['src']
+        if img_src.startswith('http:'):
+            img_src = 'https:' + img_src[5:]
+            img_tag['src'] = img_src
+        images[f"image_{img_index+1}"] = img_src
         img_tag.extract()
     news['images'] = images
     news_dict[f"news_{index+1}"] = news
