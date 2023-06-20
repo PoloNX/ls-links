@@ -8,8 +8,8 @@
         }
     },
     "news_2": {
-        "title": "[Switch] SimpleModDownloade 1.0.0 disponible",
-        "content": "Salut \u00e0 tous, j'ai cr\u00e9\u00e9 un homebrew pour la switch et ai d\u00e9cid\u00e9 de le rendre disponible pour tout le monde. Comme vous l'avez devin\u00e9 celui-ci va servir \u00e0 t\u00e9l\u00e9charger des mods directement depuis gamebanana. Et ensuite avec SimpleModManager vous pourrez les installer. (SimpleModManager peut \u00eatre t\u00e9l\u00e9charg\u00e9 depuis SimpleModDownloader)\n\u00a0\n\u00a0\n\n\u00a0\nT\u00e9l\u00e9chargement : SimpleModDownloader\nPost GbaTemp : gbatemp\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
+        "title": "[Switch] SimpleModDownloader 1.0.0 disponible",
+        "content": "Salut \u00e0 tous, j'ai cr\u00e9\u00e9 un homebrew pour la switch et ai d\u00e9cid\u00e9 de le rendre disponible pour tout le monde. Comme vous l'avez devin\u00e9 celui-ci va servir \u00e0 t\u00e9l\u00e9charger des mods directement depuis gamebanana. Et ensuite avec SimpleModManager vous pourrez les installer. (SimpleModManager peut \u00eatre t\u00e9l\u00e9charg\u00e9 depuis SimpleModDownloader)T\u00e9l\u00e9chargement : SimpleModDownloaderPost GbaTemp : gbatemp",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1175281/in-switch-simplemoddownloade-100-disponible-1.jpg"
         }
