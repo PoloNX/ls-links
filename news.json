@@ -1,7 +1,7 @@
 {
     "news_1": {
         "title": "[Switch] Les patchs signatures du 17.0.0 sont l\u00e0",
-        "content": "Dans la nuit sont tomb\u00e9s les patchs signatures pour le firmware 17.0.0. En raison de changements majeurs dans la conception et le fonctionnement du module FS, la mise \u00e0 jour des patchs signatures pour le firmware 17.0.0 a pris du temps.\u00a0\n\u00a0\nMais voil\u00e0 les nouveaux patchs signatures sont d\u00e9sormais bel et bien disponibles, la mise \u00e0 jour de sys-patch a \u00e9galement \u00e9t\u00e9 propos\u00e9e dans la foul\u00e9e.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nPatch signatures : https://sigmapatches.coomer.party/\n\u00a0\nSys-patch (ITotalJustice) : https://github.com/ITotalJustice/sys-patch\n\u00a0\nIPS_Patch_Creator (MrDude) : https://github.com/mrdude2478/IPS_Patch_Creator/releases\n\u00a0\n\u00a0\n",
+        "content": "Dans la nuit sont tomb\u00e9s les patchs signatures pour le firmware 17.0.0. En raison de changements majeurs dans la conception et le fonctionnement du module FS, la mise \u00e0 jour des patchs signatures pour le firmware 17.0.0 a pris du temps.\u00a0\n\u00a0\nMais voil\u00e0 les nouveaux patchs signatures sont d\u00e9sormais bel et bien disponibles, la mise \u00e0 jour de sys-patch a \u00e9galement \u00e9t\u00e9 propos\u00e9e dans la foul\u00e9e.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nSys-patch (ITotalJustice) : https://github.com/ITotalJustice/sys-patch\n\u00a0\nIPS_Patch_Creator (MrDude) : https://github.com/mrdude2478/IPS_Patch_Creator/releases\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/validation/in-1409470731.png"
         }
