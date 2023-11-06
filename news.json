@@ -1,7 +1,7 @@
 {
     "news_1": {
-        "title": "[PS5] Kernel exploit du firmware 7.61 et 7.20 !",
-        "content": "Le d\u00e9veloppeur Zecoaxo annonce que l'exploit kernel du firmware 7.61 a \u00e9t\u00e9 trouv\u00e9, rien que \u00e7a, et qu'il a \u00e9t\u00e9 document\u00e9 sur le Wiki.\u00a0\n\u00a0\nCet exploit kernel aurait fourni par un utilisateur de T\u00e9l\u00e9gram, sans le citer afin de le prot\u00e9ger.\n\u00a0\nEn plus de cela un autre firmware est compatible avec cet exploit kernel, il s'agit du firmware 7.20, qui lui aussi a \u00e9t\u00e9 document\u00e9 sur le Wiki et lui aussi provient du m\u00eame utilisateur de Telegram.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nBref, pour parler simplement, nous ne savons pas exactement comment il fonctionne, s'il s'agit d'un exploit passant par le webkit ou par le bluray, mais il est certain d\u00e9sormais que les firmware 7.20 et 7.61 disposent d'un kernel exploit.\u00a0\n\u00a0\n\u00a0\nTout est l\u00e0 :\u00a0\n\u00a0\nhttps://twitter.com/notnotzecoxao/status/1721278975945683305\n\u00a0\n",
+        "title": "[PS5] Les firmwares 7.61 et 7.20 d\u00e9crypt\u00e9s",
+        "content": "Le d\u00e9veloppeur Zecoaxo annonce que les firmwares 7.61 et 7.20 ont \u00e9t\u00e9 d\u00e9crypt\u00e9s, et qu'ils ont \u00e9t\u00e9 document\u00e9s sur le Wiki.\u00a0\n\u00a0\nCes d\u00e9cryptages sont le fruit d'un utilisateur de T\u00e9l\u00e9gram, sans le citer.\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nBref, pour parler simplement, et malheureusement, il ne s'agit pas encore d'un kernel exploit (je tiens \u00e0 m'excuser pour la fausse joie) , mais simplement de firmwares d\u00e9crypt\u00e9s, qui permettront peut etre de trouver des failles.\u00a0\n\u00a0\n\u00a0\nTout est l\u00e0 :\u00a0\n\u00a0\nhttps://twitter.com/notnotzecoxao/status/1721278975945683305\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/validation/in-1489065883.png"
         }
