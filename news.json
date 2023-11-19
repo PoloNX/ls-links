@@ -1,6 +1,6 @@
 {
     "news_1": {
-        "title": "[PS3] RyuJinx au rapport d'Octobre !",
+        "title": "[Switch] RyuJinx au rapport d'Octobre !",
         "content": "C'est d\u00e9sormais au tour de la Team RyuJinx de d\u00e9voiler son rapport du mois d'Octobre quelques heures apr\u00e8s celui de la Team Yuzu.\u00a0\n\u00a0\nL\u00e0 aussi de nombreuses \u00e9volutions, notamment dans certains jeux comme Luigi's Mansion 3. Des probl\u00e8mes de GPU AMD ont \u00e9t\u00e9 corrig\u00e9s via \u00e0 certains correctifs, afin de corriger des probl\u00e8mes d'objets et d'ombres.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\n\u00a0\n\u00a0\nLa Team nous explique qu'elle a \u00e9t\u00e9 confront\u00e9 \u00e0 la n\u00e9cessit\u00e9 de g\u00e9rer la suppression de donn\u00e9es de m\u00e9moire GPU (VRAM) apr\u00e8s la fin d'utilisation de certains jeux.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nA noter que certains jeux, b\u00e9n\u00e9ficiant d'un nouveau service IFileSystem.GetFileSystemAttribute introduit \u00e0 partir du firmware 16.0.0 ne fonctionnaient plus, c'est d\u00e9sormais corrig\u00e9.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nComme nous le voyons, RyuJinx \u00e9volue comme Yuzu dans le bon sens.\n\u00a0\n\u00a0\nTout est l\u00e0 : ryujinx.org\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1182676/in-ps3-ryujinx-au-rapport-doctobre-1.png",
