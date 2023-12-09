@@ -1,8 +1,10 @@
 {
     "news_1": {
         "title": "[PS4] PS4-Fake-PKG-Tools-3.87 v6.0.0 disponible",
-        "content": "",
-        "images": {}
+        "content": "Le d\u00e9veloppeur CyB1K propose la version 6.0.0 de l'outil PS4-Fake-PKG-Tools qui est propos\u00e9 depuis un moment en version 3.87.\u00a0\n\u00a0\nComme vous le savez cet outil permet de compiler des fake PKG qui pourront tourner sur votre PS4. Cette nouvelle version V6 propos\u00e9e par CyB1K a corrig\u00e9 un bug li\u00e9 \u00e0 Keystone qui \u00e9t\u00e9 supprim\u00e9 lors d'une reconstruction ou apr\u00e8s une erreur.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nV6 :\nKeystone ne sera plus supprim\u00e9 du projet lorsque vous essayez de reconstruire un paquet de base apr\u00e8s un paquet termin\u00e9 ou apr\u00e8s une erreur sur le m\u00eame projet.\n\u00a0\nV5 Suppression de la limite de PKG :\nMerci Illusion0002 pour ce patch sur cmd, je l'ai \u00e9galement port\u00e9 sur pub-gen. Illusion l'a test\u00e9 avec Red Dead Redemption 2 et il fonctionnait normalement avec un PKG de 120 Go. Je ne sais pas si cela pourrait causer des probl\u00e8mes de montage, alors cr\u00e9ez des PKG de plus de 100 Go \u00e0 vos propres risques !\n\u00a0\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : PS4-Fake-PKG-Tools-3.87 v6.0.0\n\u00a0\n\u00a0\n",
+        "images": {
+            "image_1": "https://www.logic-sunrise.com/images/news/1183467/in-ps4-ps4-fake-pkg-tools-387-v600-disponible-1.jpg"
+        }
     },
     "news_2": {
         "title": "[Wii/GameCube] CleanRip 2.1.2 disponible",
