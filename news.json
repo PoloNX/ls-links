@@ -1,10 +1,9 @@
 {
     "news_1": {
         "title": "[PS5] L'injection de fichier ELF possible gr\u00e2ce \u00e0 PS5Debug",
-        "content": "Le d\u00e9veloppeur Kameleon d\u00e9voile une application qui vous permet d'injecter sus PS5 un fichier ELF dans un processus de jeu avec l'appui de PS5Debug.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nPour rappel, PS5Debug est un payload qui permet l'ex\u00e9cution d'un d\u00e9bogueur, et offre donc plusieurs fonctions telles que les points d'arr\u00eat software, les points d'arr\u00eat hardware, la pause, l'arr\u00eat, la lecture et l'\u00e9criture de la m\u00e9moire, et permet donc d'introduire des fichiers ELF dans un process de jeu.\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nLes exemples d'injection se trouve ici : PS5Debug_Elf_Injection\n\u00a0\n\u00a0\n",
+        "content": "Le d\u00e9veloppeur Kameleon d\u00e9voile une application qui vous permet d'injecter sus PS5 un fichier ELF dans un processus de jeu avec l'appui de PS5Debug.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nPour rappel, PS5Debug est un payload qui permet l'ex\u00e9cution d'un d\u00e9bogueur, et offre donc plusieurs fonctions telles que les points d'arr\u00eat software, les points d'arr\u00eat hardware, la pause, l'arr\u00eat, la lecture et l'\u00e9criture de la m\u00e9moire, et permet donc d'introduire des fichiers ELF dans un process de jeu.\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\nLes exemples d'injection se trouve ici : PS5Debug_Elf_Injection\n\u00a0\n\u00a0\n",
         "images": {
-            "image_1": "https://www.logic-sunrise.com/images/news/1185323/in-ps5-linjection-de-fichier-elf-possible-grace-a-ps5debug-1.png",
-            "image_2": "https://www.logic-sunrise.com/images/news/1185323/in-ps5-linjection-de-fichier-elf-possible-grace-a-ps5debug-1.jpg"
+            "image_1": "https://www.logic-sunrise.com/images/news/1185323/in-ps5-linjection-de-fichier-elf-possible-grace-a-ps5debug-1.png"
         }
     },
     "news_2": {
