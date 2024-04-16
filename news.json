@@ -7,7 +7,7 @@
         }
     },
     "news_2": {
-        "title": "[PS3] Custom firmware Evilnat 4.91.2 PEX/D-PEX avec Cobra 8.5 B\u00eata 5",
+        "title": "[PS3] Custom firmware Evilnat 4.91.2 CEX/PEX/D-PEX avec Cobra 8.5 B\u00eata 5",
         "content": "Le d\u00e9veloppeur Nathan Martin vient de mettre en ligne une nouvelle version de son Custom Firmware Evilnat en 4.91.2, il s'agit comme d'habitude des versions PEX et D-PEX qui sont propos\u00e9es, et il a int\u00e9gr\u00e9 les fonctions Cobra dans leur mouture 8.5.\u00a0\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nCette B\u00eata 5 a pour ambition d'apporter 3 corrections que nous pouvons retrouver dans le changelog (en plus des \u00e9l\u00e9ments d\u00e9j\u00e0 pr\u00e9c\u00e9dents).\u00a0\n\u00a0\n- Correction de la vitesse maximale du FAN, qui affiche d\u00e9sormais 0xFF et 100 %\u00a0\n- D\u00e9sactivation temporaire de \"Load External Cobra\"\u00a0\n- Inversion du code pour cobra dans le kernel\n\u00a0\nA noter que la version CEX sera publi\u00e9e normalement dans l'apr\u00e8s-midi.\u00a0\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : CFW Evilnat 4.91.2 PEX/D-PEX avec Cobra 8.5 B\u00eata 5\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1189443/in-ps3-custom-firmware-evilnat-4912-pexd-pex-avec-cobra-85-beta-5-1.jpg"
