@@ -1,8 +1,10 @@
 {
     "news_1": {
         "title": "[XBS/XBX] L'exploit Xbox One fonctionne aussi sur le firmware 4909",
-        "content": "Le d\u00e9veloppeur carrot_c4k3 nous confirme que l'exploit Xbox One fonctionne sur le dernier firmware 4909, il d\u00e9voile une vid\u00e9o dans laquelle le reverse shell est lanc\u00e9 sur Xbox One X en retail mode, la vid\u00e9o d\u00e9marre juste au moment o\u00f9 l'exploit d\u00e9marre.\u00a0\n\u00a0\nIl annonce aussi qu'il a lanc\u00e9 l'exploit sur Xbox Series S, cela prend beaucoup plus de temps, au del\u00e0 de la minute pour le lancer.\n\u00a0\n\n\u00a0\n",
-        "images": {}
+        "content": "Le d\u00e9veloppeur carrot_c4k3 nous confirme que l'exploit Xbox One fonctionne sur le dernier firmware 4909, il d\u00e9voile une vid\u00e9o dans laquelle le reverse shell est lanc\u00e9 sur Xbox One X en retail mode, la vid\u00e9o d\u00e9marre juste au moment o\u00f9 l'exploit d\u00e9marre.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nIl annonce aussi qu'il a lanc\u00e9 l'exploit sur Xbox Series S, cela prend beaucoup plus de temps, au del\u00e0 de la minute pour le lancer.\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nTout est l\u00e0 :\u00a0carrot_c4k3\n\u00a0\n\u00a0\nA la question, quand est ce que l'exploit sera disponible, il r\u00e9pond tr\u00e8s bient\u00f4t, ce n'est probablement plus qu'une question de jours.\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
+        "images": {
+            "image_1": "https://www.logic-sunrise.com/images/validation/in-1931649245.png"
+        }
     },
     "news_2": {
         "title": "[XBS/XBX] Ex\u00e9cuter du code Lua sur Xbox One et Series X et S",
