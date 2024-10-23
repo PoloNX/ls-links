@@ -1,5 +1,12 @@
 {
     "news_1": {
+        "title": "[Multi] Flycast v2.4 supporte RetroAchievements (Android, Xbox et Switch)",
+        "content": "\u00a0\nLe meilleur \u00e9mulateur de Sega Dreamcast, de Sega Naomi et d'Atomiswave est de retour dans une nouvelle version, en effet Flycast est d\u00e9sormais propos\u00e9 en v2.4.\n\u00a0\nFork de Reicast, Flycast est un \u00e9mulateur efficace qui continue d'\u00eatre maintenu, les fonctionnalit\u00e9s sont nombreuses et la qualit\u00e9 de restitution font de cet \u00e9mulateur l'un des meilleurs, que ce soit sur Nintendo Switch, PlayStation Vita, Android ou Xbox.\n\u00a0\nLa nouvelle version 2.4 prend en charge RetroAchievements et des miniatures sont d\u00e9sormais affich\u00e9es pour les \u00e9tats de sauvegarde. De plus, Force Feedback a \u00e9t\u00e9 impl\u00e9ment\u00e9 pour certains jeux d'arcade. En bas du changelog, vous trouverez \u00e9galement des jeux qui fonctionnent d\u00e9sormais.\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nChangelog :\u00a0\n\u00a0\n- Prise en charge de RetroAchievements\n- Am\u00e9liorations de l'interface utilisateur avec les miniatures de l'\u00e9tat de sauvegarde\n- Prise en charge du retour de force pour certains jeux d'arcade (F355, 18 Wheeler, Maximum Speed, Faster Than Speed, Initial D, Club Kart, King of Route 66, Tokyo Bus Guide, Sega Driving Simulator)\n- Discord Rich Pr\u00e9sence (Windows, macOS, Linux)\n- Android : vibrations de la manette de jeu, pilotes Adreno personnalis\u00e9s et de nombreuses corrections de bugs et am\u00e9liorations\n- Optimisations Vulkan par Wunkolo\n- Divers correctifs par vkedwardli\n- De nombreuses am\u00e9liorations par scribam\n\u00a0\nJeux nouvellement support\u00e9es :\n\u00a0\n- Beach Spikers\n- Capcom vs SNK 2000 Pro\n- Irides: Master of blocks\n- Mars TV\n- Metropolis Street Racer\n- Mortal Kombat\n- Quake III\n- Red Dog Superior Firepower\n- Shin Nihon Pro Wrestling\n- Soul Surfer\n- Virtua Cop 2\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Flycast v2.4\n\u00a0\n\u00a0\n\u00a0\n",
+        "images": {
+            "image_1": "https://www.logic-sunrise.com/images/news/1197687/in-multi-flycast-v24-supporte-retroachievements-android-xbox-et-switch-1.png"
+        }
+    },
+    "news_2": {
         "title": "[PS5] La conf\u00e9rence de Specter nomm\u00e9e Byepervisor se tiendra demain",
         "content": "Le planning d'intervention de la convention Hardwear.io a \u00e9t\u00e9 d\u00e9voil\u00e9, apr\u00e8s 3 jours de trainings qui viennent de s'\u00e9couler, voil\u00e0 d\u00e9sormais les deux journ\u00e9es de conf\u00e9rence qui auront lieu demain et vendredi.\u00a0\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\n\u00a0\nEt bien vu que nous avons le planning, nous pouvons voir que la conf\u00e9rence Byepervisor se tiendra demain, pr\u00e9sent\u00e9 par le c\u00e9l\u00e8bre d\u00e9veloppeur Specter, son intervention est pr\u00e9vue entre 15h30 et 16h10, soit une pr\u00e9sentation assez rapide sur \"Comment nous avons cass\u00e9 l'hyperviseur de la PS5\".\u00a0\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\n\u00a0\nTout est l\u00e0 : hardwear.io\n\u00a0\n\u00a0\n",
         "images": {
@@ -7,42 +14,42 @@
             "image_2": "https://www.logic-sunrise.com/images/news/1197680/in-ps5-la-conference-de-specter-nomme-byepervisor-se-tiendra-demain-1.png"
         }
     },
-    "news_2": {
+    "news_3": {
         "title": "[PS5] Sony d\u00e9voile le firmware officiel 10.20 pour la PS5",
         "content": "\u00a0\nSony vient de d\u00e9voiler un nouveau firmware pour la PS5, la firme japonaise a en effet mis en ligne la version 10.20 de la mise \u00e0 jour syst\u00e8me de la derni\u00e8re console de salon.\n\u00a0\nCette mise \u00e0 jour s'int\u00e9resse autant \u00e0 la PS5 FAT que la Slim ou la toute proche PS5 Pro.\n\u00a0\nLes changements op\u00e9r\u00e9s par Sony portent sur la gestion des activit\u00e9s, d\u00e9sormais affich\u00e9es comme \"En cours\", \"Non d\u00e9marr\u00e9es\" ou \"Termin\u00e9es\" selon l'avancement.\u00a0\n\u00a0\nLes spoilers potentiels continueront d'\u00eatre cach\u00e9es, et la convivialit\u00e9 de certains \u00e9crans ont \u00e9t\u00e9 am\u00e9lior\u00e9s. Accessoirement Sony parle d'une am\u00e9lioration de performances et de stabilit\u00e9, mais nous savons bien ce que cela signifie, la correction \u00e9ventuelle de failles report\u00e9es ou d\u00e9couvertes r\u00e9cemment.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nVersion : 24.07-10.20.00 :\n\u00a0\n- Les activit\u00e9s portent d\u00e9sormais la mention En cours, Non commenc\u00e9e ou Termin\u00e9e, selon que vous avez lanc\u00e9 ou termin\u00e9 l'activit\u00e9.\n- Les \u00e9ventuels spoilers resteront cach\u00e9s.\n- Nous avons am\u00e9lior\u00e9 les performances et la stabilit\u00e9 du logiciel syst\u00e8me.\n- Nous avons am\u00e9lior\u00e9 les messages et l'ergonomie de certains \u00e9crans.\n\u00a0\n\u00a0\nTout est l\u00e0 : playstation.com\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1197678/in-ps5-sony-devoile-le-firmware-officiel-1020-pour-la-ps5-1.jpg"
         }
     },
-    "news_3": {
+    "news_4": {
         "title": "[3DS] Dead Simple EULA Set v1.2 disponible",
         "content": "Si vous disposez d'une 3DS, et que celle-ci soit hors ligne pour des raisons qui vous sont propres, comme ne pas vouloir installer notamment le dernier firmware afin de disposer d'un firmware facilement hackable, il ne vous est pas possible de vous connecter en ligne en raison de la non acceptation du CLUF (le contrat de licence utilisateur final).\u00a0\n\u00a0\nCertains outils sont cependant con\u00e7u pour fonctionner avec le cluf accept\u00e9, c'est le cas pour jouer en ligne ou pour Streetpass par exemple, et c'est l\u00e0 que Dead Simple Eula Set entre en jeu puisque cet outil permet de contourner la proc\u00e9dure manuelle d'acceptation du cluf en rendant le processus rapide et sans complexit\u00e9.\u00a0\n\u00a0\nLors de la lecture de jeux 3DS en dehors de la r\u00e9gion d'origine, la console n\u00e9cessite l'acceptation du Cluf sp\u00e9cifique qui permet d'acc\u00e9der aux services en ligne. Dead Simple EULA Set va donc se charger de g\u00e9rer les Clufs, en acceptant ou rejetant le Cluf.\u00a0\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nChangelog v1.2 :\n\u00a0\n- Correction d'un bug o\u00f9 la fonction CFG_UpdateConfigSavegame n'\u00e9tait pas appel\u00e9e, ce qui provoquait l'expiration d'un CLUF d\u00e9fini \u00e0 moins qu'il ne soit maintenu (par exemple en changeant la luminosit\u00e9 de l'\u00e9cran).\u00a0\n- Le code est \u00e0 nouveau compilable avec la derni\u00e8re version de libctru (2.4.0).\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Dead Simple EULA Set v1.2\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1197661/in-3ds-dead-simple-eula-set-v12-disponible-1.png"
         }
     },
-    "news_4": {
+    "news_5": {
         "title": "[PS5] PS5-Jar-Loader v4.0.0 de Master-s disponible",
         "content": "Le d\u00e9veloppeur Master-s vient tout juste, il y a quelques minutes, de d\u00e9voiler la version 4.0.0 de sa version fork de PS5-jar-loader qui comme vous le savez il personnalise avec quelques ajouts sp\u00e9cifiques.\u00a0\n\u00a0\nAinsi il a rajout\u00e9 quelques fichiers bin et quelques fichiers elf permettant d'augmenter encore les possibilit\u00e9s offertes par le logiciel sur PS5.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nps5-jar-loader v4.0.0 :\u00a0\n\u00a0\n- Ajout du fichier test de chargement .jat et .bin\u00a0\n- Ajout des Payload PS5 5.xx : ftpsrv.elf.bin, hello_world.elf et elfldr.elf\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : ps5-jar-loader v4.0.0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1197622/in-ps5-ps5-jar-loader-v400-de-master-s-disponible-1.png"
         }
     },
-    "news_5": {
+    "news_6": {
         "title": "[Switch] Les Pokemon leak\u00e9s sont d\u00e9sormais crack\u00e9s sur PC",
         "content": "R\u00e9cemment, Game Freak, le studio derri\u00e8re la franchise Pok\u00e9mon, a \u00e9t\u00e9 victime d\u2019une cyberattaque massive. Cette attaque a entra\u00een\u00e9 la fuite de nombreuses informations sensibles, y compris des donn\u00e9es sur des jeux pass\u00e9s, pr\u00e9sents et futurs, notamment les codes de certains jeux Pokemon, comme Pokemon Legends : Arceus, Pokemon Brilliant Diamond, et Pokemon Shining Pearl.\u00a0\n\u00a0\nCes 3 jeux ont \u00e9t\u00e9 crack\u00e9s et sont d\u00e9sormais jouables sur PC sans qu'aucun \u00e9mulateur ne soit n\u00e9cessaire, ce leak nomm\u00e9 \"Teraleak\" est probablement l'un des plus importants de l'histoire des jeux vid\u00e9o, d\u00e9voilant \u00e9galement des donn\u00e9es personnelles de nombreux employ\u00e9s de Game Freak.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nIl semblerait que des probl\u00e8mes de compatibilit\u00e9 avec les cartes nVidia limitent l'exp\u00e9rience utilisateur, des pilotes graphiques sp\u00e9cifiques devant \u00eatre d\u00e9ploy\u00e9s.\n\u00a0\nLes versions de Pok\u00e9mon BD et SP semblent \u00eatre proches des versions de d\u00e9bogage finales, et Pok\u00e9mon Legends Arceus est un prototype tr\u00e8s pr\u00e9coce. Ces \u00e9ditions sont loin d'\u00eatre les versions finales des jeux, probablement des test builds ou des versions alpha, mais tout ceci n'a de cesse d'exasp\u00e9rer Game Freak et Nintendo.\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1197621/in-switch-les-pokemon-leakes-sont-desormais-crackes-sur-pc-1.jpg"
         }
     },
-    "news_6": {
+    "news_7": {
         "title": "[PS5] PS Multi Tools v14.5.4 disponible",
         "content": "Le d\u00e9veloppeur SvenGDK propose \u00e9galement une nouvelle version de son outil PS Multi Tools qu'il propose en version 14.5.4.\u00a0\n\u00a0\nComme vous le savez probablement cet utilitaire s'adresse \u00e0 tout ceux qui dispose d'une console Sony, de la PSP \u00e0 la PS5 en passant par toutes les g\u00e9n\u00e9rations. Comme vous le savez, PS Multi Tools est un gestionnaire de backups pour PS1, PS2, PSX, PS3, PS4 et PS5 (ult\u00e9rieures), PSP et PS Vita. Inclut des homebrew, des firmwares, des t\u00e9l\u00e9chargements d'outils Windows et des outils int\u00e9gr\u00e9s pour toutes les consoles et tous les PC r\u00e9f\u00e9renc\u00e9s. Cet outil vous permettra, entre autres, de t\u00e9l\u00e9charger des homebrews ainsi que des Firmwares officiels ou Custom Firmwares, le tout depuis votre ordinateur, accompagn\u00e9 d'une interface conviviale.\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nCette nouvelle version n'a pas \u00e9t\u00e9 compil\u00e9e, il vous faudra le faire, elle apporte quelques corrections mineures, et la mise \u00e0 jour du lecteur des PKG PS5.\u00a0\n\u00a0\nChangelog :\n\u00a0\n- Mise \u00e0 jour du lecteur des PKG PS5 et autres changements mineurs\n\u00a0\nParcourir les fichiers :\n\u00a0\n- Sauvegarde de la configuration du package XML\n- Exportation du param.json\n- Sauvegarde de l'ic\u00f4ne icon0 et de l'arri\u00e8re-plan pic0\n- Correction d'un crash possible lors de l'ouverture du 'PS5 Game Patches Downloader'.\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : PS Multi Tools v14.5.4\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1197612/in-ps5-ps-multi-tools-v1454-disponible-1.jpg"
         }
     },
-    "news_7": {
+    "news_8": {
         "title": "[Switch] NeXT 3.30 pr\u00e9-version disponible",
         "content": "Le d\u00e9veloppeur Vampitech propose une nouvelle version de son all-in-one NeXT, comme vous le savez le code a \u00e9t\u00e9 retir\u00e9 de Github, mais le d\u00e9veloppeur continue de proposer son travail sur Codeberg.\n\u00a0\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\u00a0\nChangelog :\u00a0\n\u00a0\nMise \u00e0 jour de :\n- Atmosphere > 1.8.0 Pre-Release\n- Hekate > 6.2.2\n- NeXT Updater > 2.0.1\n- Sigmapatches > 19.0.0\n- MissionControl > 0.12.0\n\u00a0\nAjout :\n- Tinfoil AutoInstaller pour 19.0.0 (Bravo \u00e0 Kronos2308)\n\u00a0\nEn raison de certaines modifications apport\u00e9es au Keyset 19.0.0, certaines redirections ne fonctionneront pas. Il est pr\u00e9vu que cela soit corrig\u00e9 dans la version finale d'Atmosphere 1.8.0\n\u00a0\nT\u00e9l\u00e9chargement : NeXT 3.30\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
@@ -51,7 +58,7 @@
             "image_3": "https://www.logic-sunrise.com/images/news/1197607/in-switch-next-330-pre-version-disponible-3.jpg"
         }
     },
-    "news_8": {
+    "news_9": {
         "title": "[Switch] NX-Activity-Log et EdiZon Overlay \u00e0 jour",
         "content": "Les programmes NX-Activity-Log et EdiZon ont \u00e9t\u00e9 mis \u00e0 jour, le programme EdiZon Overlay propose \u00e0 l'origine par WerWolv a \u00e9t\u00e9 repris par proferabg, il tient \u00e0 remercier ppkantorski pour cette mise \u00e0 jour.\u00a0\n\u00a0\nEdiZon est une application d\u00e9di\u00e9e \u00e0 la gestion des sauvegardes d'\u00e9tat sur Switch et qui int\u00e8gre \u00e9galement un \u00e9diteur tr\u00e8s utile, cette nouvelle version de nombreuses optimisations.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nChangelog :\u00a0\n\u00a0\n- Mise \u00e0 jour de libnx.\n- Utilise maintenant libtesla (Ultrahand) et libultra.\n- Prise en charge des fonds d'\u00e9cran / th\u00e8mes personnalis\u00e9s.\n- Les utilisateurs peuvent remplacer le fond d'\u00e9cran / th\u00e8me du syst\u00e8me avec\u00a0 sdmc:/config/edizon/wallpaper.rgba et sdmc:/config/edizon/theme.ini.\n- Ouverture plus rapide / d\u00e9tection des jeux.\n- Correction des appels IP locaux.\n- Les relev\u00e9s de temp\u00e9rature sont maintenant effectu\u00e9s par i2c.\n\u00a0\nT\u00e9l\u00e9chargement : EdiZon-Overlay\n\u00a0\n\u00a0\n\u00a0\nLe programme NX-Activity-Log quand \u00e0 lui propos\u00e9 \u00e0 l'origine par tallbl0nde, a \u00e9t\u00e9 repris par zdm65477730, Damien Zhao. Il a rajout\u00e9 le support du firmware 19.0.0.\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : NX-Activity-Log\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
@@ -59,33 +66,33 @@
             "image_2": "https://www.logic-sunrise.com/images/news/1197602/in-switch-nx-activity-log-et-edizon-overlay-a-jour-2.jpg"
         }
     },
-    "news_9": {
+    "news_10": {
         "title": "[PS5] PS5 PKG Passcode Finder v1 disponible",
         "content": "Le d\u00e9veloppeur SvenGDK propose un outil nomm\u00e9 PKG Passcode Finder qui est un logiciel de force brute qui permet de retrouver ou recouvrer un mot de passe perdu sur des PKG PS5.\u00a0\n\u00a0\nL'outil fourni de fa\u00e7on ind\u00e9pendante va probablement \u00eatre int\u00e9gr\u00e9 dans sa suite de solution\u00a0 PS Multi Tools, mais en attendant il est possible de le t\u00e9l\u00e9charger seul.\u00a0\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nTutoriel :\u00a0\n\u00a0\n- Entr\u00e9e PS5 PKG\n- S\u00e9lectionner un chemin de sortie temporaire\n- Attendre qu'un code d'acc\u00e8s soit trouv\u00e9\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement :\u00a0PKG Passcode Finder v1\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {}
     },
-    "news_10": {
+    "news_11": {
         "title": "[PS5] PS5 Jar Loader v2.1.0 disponible",
         "content": "Le d\u00e9veloppeur Hammer-83 propose la mise \u00e0 jour de son outil PS5 Jar Loader, il s'agit de la version 2.1.0 qui apporte pas mal de nouveaut\u00e9s, notamment une tentative d'am\u00e9lioration de la synchronisation lorsque plusieurs threads tentent d'afficher des messages de d\u00e9bogage \u00e0 l'\u00e9cran et dans le journal distant.\n\u00a0\nA noter que cette version est r\u00e9trocompatible avec la v2.0.0. Les JARs construits pour la v2.1.0 devraient \u00eatre compatibles avec la v2.0.0.\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nLes \u00e9tapes \u00e0 suivre :\n\u00a0\n- Compilez le projet et gravez le contenu de assembly/target/assembly-2.1.0 sur un disque BD-RE. L'ISO pr\u00e9compil\u00e9 est \u00e9galement fourni. Compilez \u00e9ventuellement avec -Dloader.logger.host=[IP du serveur d'enregistrement] pour envoyer la sortie \u00e0 l'\u00e9cran \u00e0 un h\u00f4te distant.\n- Ins\u00e9rez le disque dans PS5 et ex\u00e9cutez le chargeur JAR.\n- Envoyez un payload : java -jar <payload.jar> <PS5 IP>\n\u00a0\nT\u00e9l\u00e9chargement : ps5-jar-loader 2.1.0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1197598/in-ps5-ps5-jar-loader-v210-disponible-1.png"
         }
     },
-    "news_11": {
+    "news_12": {
         "title": "[PS5] John Tornblom propose websrv en version 0.13",
         "content": "Le d\u00e9veloppeur John Tornblom propose une nouvelle version de son payload websrv pour la PS5, qui y sont sensibles bien entendu. Comme vous le savez, ce payload lorsqu'il est inject\u00e9 permet d'\u00e9xecuter un simple serveur web, cependant il permet beaucoup de choses, puisqu'il permet de lancer des homebrews via le webkit ou bien \u00e0 distance via un PC, smartphone ou des appareils compatibles.\n\u00a0\nDans cette nouvelle version 0.13, le d\u00e9veloppeur a fait \u00e9voluer quelques scripts pour am\u00e9liorer certains aspects de sa proposition.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nChangelog :\u00a0\n\u00a0\nhomebrew : remplacer les fichiers bin par des scripts de construction\nci : construire homebrew en utilisant des scripts de construction\nscummvm : commit initial\nfbneo : impression du chemin de configuration sur stdout\nelfldr : rendu cosm\u00e9tique sur stdout\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : webserv 0.13\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1197547/in-ps5-john-tornblom-propose-websrv-en-version-013-1.jpg"
         }
     },
-    "news_12": {
+    "news_13": {
         "title": "[Switch] Sys-con v1.4.3 disponible",
         "content": "Le d\u00e9veloppeur fran\u00e7ais o0Zz a pris la suite de Cathery avec Sys-con, et il le fait plut\u00f4t bien puisque les versions s'enchainent et ajoutent de nombreuses fonctionnalit\u00e9s. Inspir\u00e9 du projet sys-con de Cathery, ce nouveau fork a \u00e9t\u00e9 r\u00e9alis\u00e9 pour ajouter le support de toutes les manettes compatibles PC (avec un profil HID).\u00a0\n\u00a0\nAvec Sys-Con vous profiter de ses fonctionnalit\u00e9s, telles que le support des joysticks et gamepads avec profil HID, la configuration des touches en fonction du VID/PID de la manette, la gestion de la deadzone et la personnalisation de la couleur des manettes. Le module Sys-Con permet d\u2019utiliser des contr\u00f4leurs tiers sur votre console Nintendo Switch en connectant simplement vos manettes via les ports USB du dock ou via le port USB-C avec un adaptateur OTG.\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nCette nouvelle version 1.4.3 ajoute quelques correctifs :\n\u00a0\n- Correction du bouton de guide XBOXOne qui ne fonctionne pas (r\u00e9gression par rapport \u00e0 la version 1.4.0)\n- Ajout de la prise en charge de 8BitDo Ultimate 2C (manette XBOXOne)\n- Probl\u00e8me r\u00e9solu avec les contr\u00f4leurs HID qui n'ont pas de profil Joystick/manette de jeu en premi\u00e8re position.\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Sys-con v1.4.3\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1197545/in-switch-sys-con-v143-disponible-1.png"
         }
     },
-    "news_13": {
+    "news_14": {
         "title": "[Wii] cdbackup v1.4.0 disponible",
         "content": "Une nouvelle version de cdbackup a \u00e9t\u00e9 publi\u00e9e par Naim2000, il s'agit de la version 1.4.0 qui apporte son lot de nouveaut\u00e9s et de corrections. Pour rappel, cette application homebrew apporte des modifications permanentes \u00e0 la m\u00e9moire NAND du syst\u00e8me de la Nintendo Wii. Par cons\u00e9quent, cette application doit \u00eatre utilis\u00e9e avec prudence.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nElle permet notamment de :\n\u00a0\n- Sauvegarder/restaurer/exporter les donn\u00e9es du tableau de messages Wii.\n- Sauvegardez/restaurez les donn\u00e9es du tableau de messages Wii sur cdbackup.vff sur votre carte SD ou cl\u00e9 USB, exportez tous les messages au format texte ou supprimez-les enti\u00e8rement de la Wii.\n\u00a0\nEt cette nouvelle version 1.4.0 apporte ces nouveaut\u00e9s :\u00a0\n\u00a0\n- Les messages export\u00e9s sont d\u00e9sormais convertis en UTF-8 afin qu'ils ne s'affichent pas comme ceci\n\u00a0\n\n\u00a0\n- Ajout d'une option d'extraction brute pour cdbackup.vff\n- Correction du bug qui n\u00e9gligeait le p\u00e9riph\u00e9rique de stockage de masse USB si aucune carte SD n'\u00e9tait ins\u00e9r\u00e9e\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : cdbackup v1.4.0\n\u00a0\n\u00a0\n",
         "images": {
@@ -93,21 +100,21 @@
             "image_2": "https://www.logic-sunrise.com/images/news/1197542/in-wii-cdbackup-v140-disponible-2.png"
         }
     },
-    "news_14": {
+    "news_15": {
         "title": "[Switch] Switch Firmware Dumper v1.0 disponible",
         "content": "La version Switch Firmware Dumper v1.0 a \u00e9t\u00e9 publi\u00e9e le 19 octobre 2024. Cet outil permet aux utilisateurs de sauvegarder le firmware actuel de leur Nintendo Switch. La derni\u00e8re mise \u00e0 jour inclut des ajustements pour la version actuelle de libnx et corrige un probl\u00e8me o\u00f9 la suppression du dossier contenant le firmware sauvegard\u00e9 \u00e9chouait.\n\u00a0\nSwitch Firmware Dumper est un dumpeur de firmware modifi\u00e9 qui est capable d'obtenir un dump de firmware \u00e0 partir de votre NAND, le dump sera compatible avec Daybreak ou ChoiDujourNX.\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nLe code d'origine provient de https://github.com/JDK/biggestDump , le code a \u00e9t\u00e9 modd\u00e9 par mrdude. \n\u00a0\nIl s'agit de la derni\u00e8re version de code avec la derni\u00e8re LibNX pour prendre en charge le firmware 19+ avec le fix qui corrige une erreur sur le dossier de suppression des fichiers dump\u00e9s.\u00a0\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Switch Firmware Dumper v1.0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1197540/in-switch-switch-firmware-dumper-v10-disponible-1.jpg"
         }
     },
-    "news_15": {
+    "news_16": {
         "title": "[Switch] MissionControl supporte le dernier firmware 19.0.0",
         "content": "MissionControl est un module sysmodule pour la Nintendo Switch qui permet de connecter des contr\u00f4leurs Bluetooth d\u2019autres consoles sans avoir besoin de dongles ou de mat\u00e9riel externe, pour en profiter il faut bien entendu que votre Switch soit hack\u00e9e.\n\u00a0\nVoici ses principales fonctionnalit\u00e9s, notamment les contr\u00f4leurs support\u00e9s :\u00a0\n\u00a0\n- Nintendo : Wii Remote + extensions, WiiU Pro Controller\n- Sony : DualShock 3, DualShock 4, DualSense (PS5)\n- Microsoft : Xbox One S/X Controller\n- Autres : NVidia Shield Controller, 8BitDo SN30 Pro, GameSir G3s, et bien d\u2019autres\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nChangelog :\u00a0\n\u00a0\n- Support pour le firmware 19.0.0 : Cette version est compatible avec la derni\u00e8re mise \u00e0 jour du firmware de la Nintendo Switch.\n- Am\u00e9lioration de la pr\u00e9cision du HD Rumble : La d\u00e9codification des vibrations a \u00e9t\u00e9 r\u00e9\u00e9crite pour fonctionner sans erreurs.\n- Correction des probl\u00e8mes de vibration : Les contr\u00f4leurs ne vibreront plus de mani\u00e8re erratique dans certains jeux.\n- Correction des erreurs li\u00e9es aux amiibo : Certains jeux ne se bloqueront plus lors de la lecture des donn\u00e9es amiibo avec des contr\u00f4leurs non officiels.\n- Cette mise \u00e0 jour n\u00e9cessite Atmosph\u00e8re v1.8.0 ou une version ult\u00e9rieure\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : MissionControl v0.12.0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1197415/in-switch-missioncontrol-supporte-le-dernier-firmware-1900-1.jpg"
         }
     },
-    "news_16": {
+    "news_17": {
         "title": "[PS5] PS5 PKG Tool v1.0.5 disponible",
         "content": "Le d\u00e9veloppeur Master-s a mis en ligne il y a quelques heures une nouvelle version de PS5 PKG Tool, le fork de l'outil de DNNDHH, qui permet de construire des PKG pour la PS5.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nIl am\u00e9liore son outil en y apportant des options de configurations suppl\u00e9mentaires, ainsi il a d\u00e9voil\u00e9 une vid\u00e9o dans laquelle il modifie le fonds d'\u00e9cran selon l'icone utilis\u00e9e au sein m\u00eame de l'app.\u00a0\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nIl ne nous donne pas de r\u00e9el changelog de cette version, tout comme pour la version 1.04, ce qui est dommage, mais comme vous le savez sous PS5 PKG Tool se cache un outil qui va vous permettre de cr\u00e9er et g\u00e9rer des fichiers de package (PKG) pour la PlayStation 5. Il comprend des fonctionnalit\u00e9s pour construire, modifier et installer des fichiers PKG, qui sont essentiels pour le d\u00e9veloppement de jeux et le modding.\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : PS5 PKG Tool v1.0.5\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
@@ -115,14 +122,14 @@
             "image_2": "https://www.logic-sunrise.com/images/news/1197405/in-ps5-ps5-pkg-tool-v105-disponible-2.png"
         }
     },
-    "news_17": {
+    "news_18": {
         "title": "[PS3] webMAN MOD v1.47.47e disponible",
         "content": "Le d\u00e9veloppeur Aldo Vargas, connu aussi sous le pseudonyme d'Aldostools, propose une nouvelle version de son plugin webMAN MOD, il s'agit de la version v1.47.47e qui comme vous le savez se destine \u00e0 la PlayStation 3.\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nAu programme, de nouvelles options et de nouvelles commandes :\u00a0\n\u00a0\n- Nouvelle option dans /setup.ps3 pour afficher l'URL actuelle sous forme de code QR\n- Nouvelle commande Web /qr.ps3<texte>\n- Mise \u00e0 jour cumulative (inclut plus de 54 modifications apport\u00e9es \u00e0 la suite d'outils apr\u00e8s la publication initiale de la version 1.47.46).\n- La combinaison R2+O annule d\u00e9sormais le processus de balayage du contenu en cours\u00a0\n- Scan pour les couvertures de ROMS dans covers_retro de multiMAN\n- Am\u00e9lioration de l'algorithme de balayage du contenu (les groupes ROMS et jeux permettent maintenant de trouver plus de jeux)\u00a0\n- Ajout de nouvelles \u00e9tiquettes de nom de fichier $RND$, $000$, $NEW$\n- Correction des entr\u00e9es CUE/BIN dupliqu\u00e9es dans le dossier ROMS\n- Correction d'une erreur de segmentation lors de l'analyse d'un grand nombre de ROMS\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : webMAN MOD v1.47.47e\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1197404/in-ps3-webman-mod-v14747e-disponible-1.png"
         }
     },
-    "news_18": {
+    "news_19": {
         "title": "[XBX] Les nouveaux mod\u00e8les Xbox Series X ont une puce 6 nm",
         "content": "\u00a0\nComme vous le savez certainement les consoles Xbox et PlayStation partagent leur APU (processeur central) sur les cha\u00eenes de production de TSMC, sans pour partager le m\u00eame processus de production, ils profitent de la m\u00eame finesse de gravure.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nAinsi les nouveaux mod\u00e8les Xbox Series X, sans disque et de 2 To, dispose d'une puce plus petite que celle des versions pr\u00e9c\u00e9dentes, un peu comme les nouvelles puces pr\u00e9sentes dans la PS5 Pro, nous comprenons que Microsoft a fait l'impasse sur un nouveau mod\u00e8le l\u00e0 o\u00f9 Sony a engag\u00e9 la course \u00e0 la puissance.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nUne fois cela confirm\u00e9, il faut noter que cette puce de 6 nm consomme moins d'\u00e9nergie puisqu'elle permet d'\u00e9conomiser 10 watts lorsqu'elle tourne au ralenti, et jusqu'\u00e0 16 watts pendant une session de jeu. La console originale de la Xbox Series X fonctionne \u00e0 environ 61 watts au repos sur le dashboard Xbox, mais sur le nouveau mod\u00e8le en \u00e9dition sp\u00e9ciale de 2 To, ce chiffre tombe \u00e0 environ 51 watts au repos et \u00e0 seulement 38 watts sur la Xbox Series X num\u00e9rique. Pendant le jeu, la Xbox Series X originale fonctionne \u00e0 167 watts, le mod\u00e8le sans disque \u00e0 156 watts et le mod\u00e8le 2 To \u00e0 151 watts.\n\u00a0\n\u00a0\n\n\u00a0\n\n\u00a0\n\u00a0\nCette nouvelle puce permet \u00e9galement \u00e0 Microsoft de changer le syst\u00e8me de refroidissement, et \u00e9galement de revoir techniquement la carte m\u00e8re qui a \u00e9t\u00e9 totalement repens\u00e9e.\u00a0\n\u00a0\n\u00a0\nTout est l\u00e0 : Theverge.com\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
@@ -131,18 +138,11 @@
             "image_3": "https://www.logic-sunrise.com/images/news/1197403/in-xbx-les-nouveaux-modeles-xbox-series-x-ont-une-puce-6-nm-3.jpg"
         }
     },
-    "news_19": {
+    "news_20": {
         "title": "[Switch] Atmosphere 1.8.0 officiellement disponible (prerelease)",
         "content": "\u00a0\nSciresM est de retour et propose officiellement la version 1.8.0 d'Atmosphere sur son github, il s'agit de la version c6014b5 qui est la prerelease, ainsi m\u00eame s'il s'agit de la quatre-vingti\u00e8me version officielle d'Atmosph\u00e8re, pour le moment il s'agit d'une pr\u00e9version, et des probl\u00e8mes peuvent \u00eatre trouv\u00e9s qui doivent \u00eatre corrig\u00e9s avant la sortie de la version compl\u00e8te.\n\n\u00a0\nSi des bugs sont signal\u00e9s pendant la pr\u00e9version d'Atmosph\u00e8re, ils seront corrig\u00e9s et la version sera mise \u00e0 jour. Merci \u00e0 switchbrew, Atmosph\u00e8re 1.8.0 est fourni avec hbl 2.4.4, et hbmenu 3.6.0.\n\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\nChangelog :\u00a0\n\u00a0\n- Le support de base a \u00e9t\u00e9 ajout\u00e9 pour le firmware 19.0.0.\n- La console devrait d\u00e9marrer et l'atmosph\u00e8re devrait \u00eatre pleinement fonctionnelle. - Cependant, tous les modules n'ont pas \u00e9t\u00e9 enti\u00e8rement mis \u00e0 jour pour int\u00e9grer les derniers changements.\n- Il ne devrait rien en r\u00e9sulter de visible pour l'utilisateur, mais ce probl\u00e8me sera trait\u00e9 dans une prochaine mise \u00e0 jour d'atmosph\u00e8re. Il reste \u00e9galement un point d'action de la version 18.0.0 \u00e0 traiter.\n- Exosph\u00e8re a \u00e9t\u00e9 mis \u00e0 jour pour int\u00e9grer les derni\u00e8res \u00e9volutions du moniteur s\u00e9curis\u00e9.\n- Mesosph\u00e8re a \u00e9t\u00e9 mis \u00e0 jour pour disposer des derniers changements du kernel.\n- Le loader a \u00e9t\u00e9 mis \u00e0 jour pour disposer des derni\u00e8res \u00e9volutions.\n- pm a \u00e9t\u00e9 mis \u00e0 jour pour disposer des derni\u00e8res \u00e9volutions.\n- ro a \u00e9t\u00e9 mis \u00e0 jour pour disposer des derni\u00e8res \u00e9volutions.\n- Les mod\u00e8les d'acc\u00e8s aux fichiers de creport ont \u00e9t\u00e9 optimis\u00e9s, ce qui am\u00e9liore grandement les performances lors de la g\u00e9n\u00e9ration d'un rapport de crash.\n- Atmosph\u00e8re utilise maintenant les relocalisations relr lorsque c'est possible.\nCela r\u00e9duit la taille des fichiers d'un certain nombre de modules d'atmosph\u00e8re.\n- Un certain nombre de probl\u00e8mes mineurs ont \u00e9t\u00e9 corrig\u00e9s et des am\u00e9liorations ont \u00e9t\u00e9 apport\u00e9es :\n- Le support a \u00e9t\u00e9 corrig\u00e9 pour faire fonctionner Atmosph\u00e8re sur des unit\u00e9s plus r\u00e9centes avec des puces DRAM Hynix/Micron sp\u00e9cifiques.\n- Am\u00e9liorations g\u00e9n\u00e9rales de la stabilit\u00e9 du syst\u00e8me pour am\u00e9liorer l'exp\u00e9rience de l'utilisateur.\n\u00a0\n\n\u00a0\nT\u00e9l\u00e9chargement : Atmosphere 1.8.0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/validation/in-2146576139.png"
-        }
-    },
-    "news_20": {
-        "title": "[Switch] sys-clk, SaltyNX, sigpatch-updater et sys-botbase disponibles",
-        "content": "Cela bouge sur le firmware 19.0.0 de la Switch, apr\u00e8s la sortie de la mise \u00e0 jour des Sys-patch, une version modd\u00e9e des Sys-patch modifiant le patch ES FW18 + 19, et ajoutant le patch FS taill\u00e9 pour le firmware 19.0.0. Les autres patchs restent les m\u00eames.\n\u00a0\nA noter que si vous avez install\u00e9 IPS/Patches.ini et que vous l'utilisez en m\u00eame temps - sur FW19 - nocntchk_FW19_1 dira qu'il n'est pas corrig\u00e9, m\u00eame s'il l'est.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nSys-clk et sys-botbase ont \u00e9galement \u00e9t\u00e9 mis \u00e0 jour apportant le support du firmware 19.0.0 et aussi d'Atmosphere 18.x. Pour rappel, sys-botbase est un module qui permet de prendre le contr\u00f4le \u00e0 distance de votre Switch via une connexion WiFi, afin de lire ou d'\u00e9crire par exemple dans la m\u00e9moire du jeu.\u00a0\n\u00a0\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement :\u00a0Sys-patch (de Miniminx) / switch/off_switch.nro /\u00a0sys-botbase\u00a0/ sys-clk\u00a0/ sigpatch-updater\n",
-        "images": {
-            "image_1": "https://www.logic-sunrise.com/images/validation/in-601525428.jpg"
         }
     }
 }
