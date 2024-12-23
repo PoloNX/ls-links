@@ -22,7 +22,7 @@
         }
     },
     "news_4": {
-        "title": "[Multi] PPlay 4.01 disponible",
+        "title": "[PS4] PPlay 4.01 disponible",
         "content": "Le d\u00e9veloppeur psbax4 propose une nouvelle version de PPlay via PSXhax.com \u00e0 destination de la PS4. Cette nouvelle version se distingue car elle prend en charge le DLNA, le stream et le https.\u00a0\n\u00a0\nDe plus dans cette version les shaders sont pr\u00e9compil\u00e9s et les options r\u00e9seau ont \u00e9t\u00e9 mises \u00e0 jour.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nLisez le fichier readme.txt pour la configuration, le d\u00e9veloppeur souhaite regarder s'il peut int\u00e9grer le support CEC, mais il pense que le mat\u00e9riel HDMI ne soit pris en charge par les logiciels open source.\n\u00a0\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : PPlay 4.01 (PKG)\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1201938/in-multi-pplay-401-disponible-1.png"
