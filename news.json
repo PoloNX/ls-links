@@ -98,7 +98,7 @@
         }
     },
     "news_14": {
-        "title": "[Vita] eCFW 6.61 Adrenaline 7.1.5 disponible",
+        "title": "[Vita] eCFW 6.61 Adrenaline 7.1.6 disponible",
         "content": "Et voil\u00e0 la premi\u00e8re mise \u00e0 jour de 2025 qui concerne l'eCFW 6.61 Adrenaline qui est d\u00e9sormais propos\u00e9e en version 7.1.5.\n\u00a0\nComme vous le savez, le plugin permet de modifier l'\u00e9mulateur interne PSP dans la PS Vita en utilisant taiHEN afin d'ex\u00e9cuter le custom firmware 6.61. Adrenaline injecte le code personnalis\u00e9 dans l'IPL - Inital Program Loader - et permet de lancer du code non sign\u00e9 dans la console lorsqu'elle s'allume.\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nL'int\u00e9r\u00eat de cette version est d'introduire un nouveau syst\u00e8me de r\u00e9cup\u00e9ration et d'installation qui am\u00e9liore la gestion et l'installation d'Adrenaline.\n\u00a0\nLa prise en charge de l'affichage des manuels dans les jeux au format ISO a \u00e9galement \u00e9t\u00e9 ajout\u00e9e. Vous devez d'abord obtenir ou cr\u00e9er un fichier DOCUMEN.DAT, le renommer avec le nom du fichier ISO suivi de l'extension .DAT et le placer dans le m\u00eame r\u00e9pertoire que le jeu.\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : eCFW 6.61 Adrenaline 7.1.5\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1202539/in-vita-ecfw-661-adrenaline-715-disponible-1.png"
