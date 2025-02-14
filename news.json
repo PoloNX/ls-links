@@ -14,8 +14,8 @@
         }
     },
     "news_3": {
-        "title": "[PS5] PS5 Payload SDK v0.26 disponible",
-        "content": "Le d\u00e9veloppeur John Tornblom continue de faire \u00e9voluer son offre PS5 Payload SDK et propose d\u00e9sormais la version v0.26. Encore une fois, le d\u00e9veloppeur nous r\u00e9gale, en proposant de nouveaux exemples, de nouveaux stubs, et bien entendu les tous derniers offsets 6.xx et 7.xx.\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nChangelog v0.26 :\n\u00a0\n- kernel : ajout des offsets 6.xx et 7.xx\n- sce_libs : ajout des stubs libSceAppInstUtil, libSceNetCtl et libSceSysCore\n- exemples : ajout de hello_kenv\n- \u00e9chantillons : ajout de hello_cxx23\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement :\u00a0 PS5 Payload SDK v0.26\n\u00a0\n\u00a0\n\u00a0\n",
+        "title": "[PS5] PS5 Payload SDK v0.26.1 disponible",
+        "content": "Le d\u00e9veloppeur John Tornblom continue de faire \u00e9voluer son offre PS5 Payload SDK et propose d\u00e9sormais la version v0.26. Encore une fois, le d\u00e9veloppeur nous r\u00e9gale, en proposant de nouveaux exemples, de nouveaux stubs, et bien entendu les tous derniers offsets 6.xx et 7.xx.\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nChangelog v0.26 :\n\u00a0\n- kernel : ajout des offsets 6.xx et 7.xx\n- sce_libs : ajout des stubs libSceAppInstUtil, libSceNetCtl et libSceSysCore\n- exemples : ajout de hello_kenv\n- \u00e9chantillons : ajout de hello_cxx23\n\u00a0\nEdit 14.02.2025 :\u00a0\n\u00a0\nT\u00e9l\u00e9chargement :\u00a0 PS5 Payload SDK v0.26.1\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1203599/in-ps5-ps5-payload-sdk-v026-disponible-1.png"
         }
