@@ -15,8 +15,8 @@
         }
     },
     "news_3": {
-        "title": "[PS5] AirPSX v0.09 disponible",
-        "content": "Une mise \u00e0 jour du plugin AirPSX vient d'\u00eatre d\u00e9voil\u00e9e, comme vous le savez certainement il s'agit d'un payload ELF d\u00e9velopp\u00e9 par barisyild pour PS5 et qui est un peu similaire \u00e0 webMAN sur PS3 et qui permet de prendre en charge les jeux PS4.\n\u00a0\nApr\u00e8s une version 0.08 qui met \u00e0 jour le package avec le SDK 0.27, tandis que la version 0.09 qui vient d'\u00eatre mise en ligne vient corriger un bug dans l'app, et permet l'ex\u00e9cution payload dans la gestionnaire de fichiers.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nChangelog 0.09 :\u00a0\n\u00a0\n- Correction d'un bug dans l'application \u00ab Applications \u00bb qui affichait de mani\u00e8re incorrecte le lancement de l'application.\n- Ajout de \u00ab Ex\u00e9cuter le payload \u00bb au gestionnaire de fichiers.\n\u00a0\nT\u00e9l\u00e9chargement : AirPSX v0.09\n\u00a0\n\u00a0\n",
+        "title": "[PS5] AirPSX v0.10 disponible",
+        "content": "Une mise \u00e0 jour du plugin AirPSX vient d'\u00eatre d\u00e9voil\u00e9e, comme vous le savez certainement il s'agit d'un payload ELF d\u00e9velopp\u00e9 par barisyild pour PS5 et qui est un peu similaire \u00e0 webMAN sur PS3 et qui permet de prendre en charge les jeux PS4.\n\u00a0\nApr\u00e8s une version 0.08 qui met \u00e0 jour le package avec le SDK 0.27, tandis que la version 0.09 qui vient d'\u00eatre mise en ligne vient corriger un bug dans l'app, et permet l'ex\u00e9cution payload dans la gestionnaire de fichiers.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nChangelog 0.09 :\u00a0\n\u00a0\n- Correction d'un bug dans l'application \u00ab Applications \u00bb qui affichait de mani\u00e8re incorrecte le lancement de l'application.\n- Ajout de \u00ab Ex\u00e9cuter le payload \u00bb au gestionnaire de fichiers.\n\u00a0\nEdit 08.03.2025\n\u00a0\nT\u00e9l\u00e9chargement : AirPSX v0.10\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1204237/in-ps5-airpsx-v009-disponible-1.png"
         }
