@@ -1,6 +1,6 @@
 {
     "news_1": {
-        "title": "[PS4] Remote Jar Loader v1.1 disponible avec Lapse 1.0",
+        "title": "[PS4] Remote Jar Loader v1.2 disponible avec Lapse 1.1",
         "content": "Le d\u00e9veloppeur Gezine propose la version 1.1 de Remote Jar Laoder, il s'agit en fait d'une mise \u00e0 jour de l'exploit BD-JB-1250 qui int\u00e8gre d\u00e9sormais la version 1.0 de Lapse, le Kexploit utilis\u00e9 sur PS4 pour les firmwares compris entre le 9.00 et 12.02.\u00a0\n\u00a0\nLe taux de r\u00e9ussite de 90%, la rapidit\u00e9 et la stabilit\u00e9 font de cette impl\u00e9mentation l'une des meilleures permettant de profiter de charger les payloads, et notamment GoldHEN sur une cl\u00e9 USB.\u00a0\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nPour ce faire, il suffit de graver le fichier Lapse.iso sur un disque Blu-ray et d'ins\u00e9rer le payload, par exemple GoldHEN, sur une cl\u00e9 USB, en la renommant en payload.bin.\n\u00a0\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Remote Jar Loader 1.1 + Lapse 1.0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209468/in-ps4-remote-jar-loader-v11-disponible-avec-lapse-10-1.png"
