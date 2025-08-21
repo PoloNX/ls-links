@@ -50,13 +50,6 @@
         }
     },
     "news_8": {
-        "title": "[PS5] Lapse mis \u00e0 jour en 1.1b par Gezine",
-        "content": "Le d\u00e9veloppeur Gezine vient de mettre \u00e0 jour la version de Lapse propos\u00e9 dans sa solution \"Remote Jar Loader + Lapse\", ainsi Lapse a \u00e9t\u00e9 mis \u00e0 jour en version 1.1b.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nLapse 1.1b :\n\u00a0\n- Am\u00e9lioration de la v\u00e9rification de l'\u00e9tat du jailbreak.\n- D\u00e9sormais, la r\u00e9ouverture accidentelle de l'application de lecture de disques \u00e0 deux reprises ne provoque plus le plantage du syst\u00e8me.\n- Suppression de la notification BinLoader, car elle semait la confusion chez les utilisateurs.\n\u00a0\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Remote Jar Loader 1.2 + Lapse 1.1b\n\u00a0\n\u00a0\n\u00a0\n",
-        "images": {
-            "image_1": "https://www.logic-sunrise.com/images/news/1209600/in-ps5-lapse-mis-a-jour-en-11b-par-gezine-1.png"
-        }
-    },
-    "news_9": {
         "title": "[2DS/3DS] Snes9x 3DS v1.52 disponible",
         "content": "\u00a0\nLe d\u00e9veloppeur matbo87, qui avait repris le travail de bubble2k16 sur une version personnalis\u00e9e de l'\u00e9mulateur Snes9x sur Nintendo 3DS, propose une nouvelle version de son \u00e9mulateur qui est maintenant livr\u00e9 en v1.52.\u00a0\n\u00a0\nAu programme par rapport \u00e0 la v1.51.1, une s\u00e9curit\u00e9 des threads am\u00e9lior\u00e9e pour \u00e9viter les plantages dus \u00e0 l'acc\u00e8s simultan\u00e9 \u00e0 la liste ROM, une am\u00e9lioration de la stabilit\u00e9 de l'arr\u00eat en corrigeant les probl\u00e8mes de nettoyage des ressources, et enfin de nouvelles options d'affichage ajout\u00e9es.\n\u00a0\n\u00a0\n\n\u00a0\n\n\u00a0\n\u00a0\nChangelog 1.52 :\u00a0\n\u00a0\nCorrections de bugs\n- S\u00e9curit\u00e9 des threads : emp\u00eache le thread de cache d'acc\u00e9der romFileNamespendant qu'il est modifi\u00e9 par le thread principal\u00a0\n- Stabilit\u00e9 \u00e0 l'arr\u00eat : s'assure que tous les shops globaux/statiques sont correctement effac\u00e9s \u00e0 la sortie pour \u00e9viter les plantages tardifs li\u00e9s \u00e0 l'ordre de destruction\u00a0\n- Mappage de la ROM : correction d'un mappage incorrect de la banque de m\u00e9moire pour Mega Man X (et probablement d'autres ROM)\u00a0\n\u00a0\nCaract\u00e9ristiques\n- \u00c9tirement de l'\u00e9cran : ajout de l'option de mise \u00e0 l'\u00e9chelle \u00ab 4:3 \u00bb\u00a0\n- Filtre d'\u00e9cran : ajout de l'option \u00ab filtrage lin\u00e9aire \u00bb\u00a0\n\u00a0\nRefonte de code\n- Performances : annule le commit 8d50f5 en raison d'un impact n\u00e9gatif sur les performances\u00a0\n- Shader : suppression des shaders inutilis\u00e9s + ajustement du makefile\u00a0\n\u00a0\n\u00a0\nDe quoi ressortir nos bonnes vieilles 3DS ou New3ds / New2DS ?\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Snes9x 3DS v1.52\n\u00a0\n\u00a0\n",
         "images": {
@@ -64,63 +57,63 @@
             "image_2": "https://www.logic-sunrise.com/images/news/1209573/in-2ds3ds-snes9x-3ds-v152-disponible-2.png"
         }
     },
-    "news_10": {
+    "news_9": {
         "title": "[3DS] La version finale de l'\u00e9mulateur 3DS Azahar est disponible en 2123",
         "content": "Apr\u00e8s quelques b\u00eatas, et quelques release candidate dont nous n'avons pas fait \u00e9cho, voil\u00e0 la version finale r\u00e9vision 2123 de l'\u00e9mulateur 3DS Azahar issu d'un fork de Citra d\u00e9velopp\u00e9 par PabloMK7 et Lime3DS.\n\u00a0\nBeaucoup d'\u00e9l\u00e9ments ont \u00e9volu\u00e9 depuis la 2122, sur de nombreux correctifs g\u00e9n\u00e9raux, mais aussi sp\u00e9cifiques \u00e0 Android, MacOS, Windows ou bien m\u00eame techniques comme en atteste le changelog.\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nQuelques points importants :\u00a0\n\u00a0\n- Le cache des shaders sous Vulkan sera invalid\u00e9, donc le stuttering r\u00e9appara\u00eetra sur les parties d\u00e9j\u00e0 jou\u00e9es jusqu'\u00e0 ce que le cache soit r\u00e9g\u00e9n\u00e9r\u00e9.\u00a0\n- Comme d'habitude, les sauvegardes des versions pr\u00e9c\u00e9dentes cesseront de fonctionner\u00a0\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Azahar 2123\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209568/in-3ds-la-version-finale-de-lemulateur-3ds-azahar-est-disponible-en-2123-1.jpg"
         }
     },
-    "news_11": {
+    "news_10": {
         "title": "[PS4] PKG-BackUP supporte les firmwares 3.00 \u00e0 12.02",
         "content": "Comme chaque ann\u00e9e depuis 3 ans, le d\u00e9veloppeur kmeps4 propose sa mise \u00e0 jour de PKG-BackUP, il s'agit l\u00e0 de la version 1.3 qui am\u00e8ne le support des firmwares PS4 3.00 \u00e0 12.02.\n\u00a0\nPKG-BackUP est une version modifi\u00e9e d'App Dumper qui permet de sauvegarder les fichiers PKG sur un disque dur externe.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nVersion 1.0 :\n- Ajout de la possibilit\u00e9 d'automatiser et de copier la base, la mise \u00e0 jour et le DLC PKG des applications/jeux d\u00e9j\u00e0 install\u00e9s sur un disque dur externe.\n\u00a0\nVersion 1.1 :\n- Ajout du fichier de configuration \u00ab config.cfg \u00bb, cela permettra \u00e0 l'utilisateur de configurer les param\u00e8tres suivants (vous devez ajouter ce fichier \u00e0 la racine du disque dur externe)\u00a0\n- Ajout de la compatibilit\u00e9 avec le lecteur de stockage \u00e9tendu sur /mnt/ext0/..\n- Ajout d'une notification de progression du pourcentage de copie.\n\u00a0\nVersion 1.3 :\u00a0\n- Ajout de la prise en charge du firmware PS4 de 3.00 \u00e0 12.02\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : PKG-BackUP 1.3\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209566/in-ps4-pkg-backup-supporte-les-firmwares-300-a-1202-1.png"
         }
     },
-    "news_12": {
+    "news_11": {
         "title": "[PS4/PS5] Laps3c0re une future possibilit\u00e9 de jeux PS2 sur PS4 et PS5",
         "content": "Le d\u00e9veloppeur iMrDJAi a d\u00e9voil\u00e9 la version 1.0 de Laps3c0re, en d\u00e9veloppement depuis quelques semaines, il s'agit d'une fusion entre un portage de Lapse, l'impl\u00e9mentation d'abc, et de Mast1c0re, le point d'entr\u00e9e de McCaulay.\u00a0\n\u00a0\nUn script qui se nomme mast1c0re-send-file.py permet lui d'envoyer les payloads, et certaines fonctions permettent elles d'agir sur les paquets r\u00e9seaux et les m\u00e9moires tampons.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nSur PS4, les firmwares 9.00, 9.03, 9.04, 9.50, 9.51, 9.60, 10.00, 10.01, 10.50, 10.70, 10.71 et 11.00 sont pris en charge, ce n'est pas le cas des firmwares 11.02, 11.50, 11.52, 12.00 et 12.02 dont le d\u00e9veloppement est toujours en cours, les versions ult\u00e9rieures, telles que 12.50 et sup\u00e9rieures, ne sont actuellement pas prises en charge.\n\u00a0\nLe d\u00e9veloppeur l'a d\u00e9j\u00e0 annonc\u00e9, Laps3c0re sera disponible en standalone sans besoin de loader ELF, et il faut disposer d'une copie de Okage : Shadow King.\n\u00a0\nL'id\u00e9e premi\u00e8re de Laps3c0re, tout comme celle de mast1c0re est d'apporter le support des backups PS2 sur PS4 et PS5, on s'en approche.\u00a0\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Laps3c0re v1.00\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209565/in-ps4ps5-laps3c0re-une-future-possibilite-de-jeux-ps2-sur-ps4-et-ps5-1.png"
         }
     },
-    "news_13": {
+    "news_12": {
         "title": "[Switch] NXMilk supporte d\u00e9sormais les CD, DVD et Blu-ray",
         "content": "L'homebrew NXMilk supporte d\u00e9sormais les CD audio, les DVD et les Blu-ray, de quoi apporter une r\u00e9elle diversit\u00e9 de source \u00e0 la Switch.\u00a0\n\u00a0\nComme vous pouvez vous en doutez, cela ne fonctionne qu'avec un lecteur de disque externe, mais le logiciel peut d\u00e9sormais lire les formats USB notamment avec l'appui de la biblioth\u00e8que libusbdvd.\u00a0\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nEt NXMilk supporte dans sa version 0.3.0 :\u00a0\n\u00a0\n- Support USB-DVD USB-BD Drive\n- Support ISO9660 avec Joliet\u00a0\n- Support RockRidge\u00a0\n- Support UDF 1.02\u00a0\n- Support CD-ROM\u00a0\n- Support DVD-ROM and\u00a0\n- Support BD-ROM (BD lack UDF 2.60)\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : NXMilk 0.3.0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209544/in-switch-nxmilk-supporte-desormais-les-cd-dvd-et-blu-ray-1.jpg"
         }
     },
-    "news_14": {
+    "news_13": {
         "title": "[PS5] Le HEN 2.0 sera bient\u00f4t propos\u00e9 par Flatz",
         "content": "Il est d\u00e9sormais acquis qu'un HEN 2.0 est dans les tuyaux, il s'agira d'un HEN qui fonctionnera sur PS5 et qui permettra de lancer des FPKG PS5, et qui permettra aussi de les installer en plus de les lancer.\u00a0\n\u00a0\nM\u00eame s'il est encore trop t\u00f4t pour en parles en d\u00e9tails, Zecoxao annonce que ce HEN 2.0 supportera les FPKG PS4 et PS5, il y aura aussi le support des DLC et des correctifs de mise \u00e0 jour.\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nSelon lui le HEN 2.0 sera en th\u00e9orie accessible du firmware 1.xx au 10.01 sur PS5, ce sont les seuls qui sont sensibles, c'est d'ailleurs pour cela qu'il va \u00eatre publi\u00e9, c'est parce qu'aucune possibilit\u00e9 de le lancer sur un firmware plus r\u00e9cent n'est actuellement possible.\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209542/in-ps5-le-hen-20-sera-bientot-propose-par-flatz-1.jpg"
         }
     },
-    "news_15": {
+    "news_14": {
         "title": "[3DS/2DS] Red Viper 1.1.0 disponible",
         "content": "\u00a0\nLe d\u00e9veloppeur Skyfloogle propose une nouvelle version de son \u00e9mulateur Virtual Boy, Red Viper, qui est maintenant propos\u00e9 en v1.1.0. Red Viper c'est le meilleur \u00e9mulateur de Virtual Boy sur les Nintendo 2DS et Nintendo 3DS, et cette version confirme encore que skyfloogle assure un soutien sans faille.\u00a0\n\u00a0\nDans cette version, le moteur de rendu logiciel a \u00e9t\u00e9 am\u00e9lior\u00e9 et activ\u00e9 sur New3DS afin de corriger un bug graphique, et certains plantages ont \u00e9t\u00e9 supprim\u00e9s.\u00a0\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nChangelog :\u00a0\n\u00a0\n- Am\u00e9lioration du moteur de rendu logiciel et activation de celui-ci pour la chambre de test sur la nouvelle 3DS, correction des murs noirs transparents\n- Correction de l'instruction XB qui ne s'enregistre pas lorsque le registre est en m\u00e9moire, ce qui entra\u00eene des plantages dans le mini-jeu de tir de com\u00e8tes dans l'\u00e9tape Colony de Galactic Pinball (#87)\n- Nombreuses am\u00e9liorations apport\u00e9es \u00e0 l'interpr\u00e8te\n- Ces modifications n'affectent aucun jeu existant, mais facilitent le test de l'\u00e9mulateur dans des environnements alternatifs\n\u00a0\nT\u00e9l\u00e9chargement : Red Viper 1.1.0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209532/in-3ds2ds-red-viper-110-disponible-1.png"
         }
     },
-    "news_16": {
+    "news_15": {
         "title": "[Wii/GC] Swiss v0.6r1913 disponible",
         "content": "\u00a0\nLe d\u00e9veloppeur Extrems vient de mettre en ligne une version importante de son outil Swiss, et il faut avouer qu'il n'a pas fait semblant, les nouveaut\u00e9s sont tr\u00e8s nombreuses dans cette v0.6r1913.\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\n- Ignore le lecteur de disque dont la date de compilation du firmware est nulle.\n- Mise \u00e0 jour l'apploader. (extremscorner/cubeboot-tools@d9d7ed6)\n- Paquet pour PicoLoader.\n- Mise \u00e0 jour l'apploader. (extremscorner/cubeboot-tools@3452404)\n- Ajout d'une option de mode de d\u00e9marrage du syst\u00e8me.\n- Correction de la s\u00e9lection du mode vid\u00e9o avec NTSC Revision 1.0.\n- Affichage de l'\u00e9tat de d\u00e9tection des emplacements m\u00e9moire A et B.\n- Mise \u00e0 jour de l'apploader. (extremscorner/cubeboot-tools@a30f3ed)\n- Correction de la d\u00e9tection des cartes m\u00e9moire.\n- Ajustement pour les modifications libogc2.\n- Reconnaissance de la carte m\u00e9moire MemCard PRO GC.\n- Rapport coh\u00e9rent du nombre de blocs de la carte m\u00e9moire.\n- Renommer le d\u00e9marrage via IPL pour charger le menu principal GameCube.\n- Noircir la vid\u00e9o de mani\u00e8re coh\u00e9rente.\n- Priorit\u00e9 r\u00e9duite de la fonction de r\u00e9initialisation de l'ID du jeu.\n- Mise \u00e0 jour de la base de donn\u00e9es Redump. Une toute premi\u00e8re version de l'\u00e9mulateur Flycast est disponible.\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Swiss v0.6r1913\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209529/in-wiigc-swiss-v06r1913-disponible-1.jpg"
         }
     },
-    "news_17": {
+    "news_16": {
         "title": "[PS4] Remote Jar Loader v1.2 disponible avec Lapse 1.1",
         "content": "Le d\u00e9veloppeur Gezine propose la version 1.1 de Remote Jar Laoder, il s'agit en fait d'une mise \u00e0 jour de l'exploit BD-JB-1250 qui int\u00e8gre d\u00e9sormais la version 1.0 de Lapse, le Kexploit utilis\u00e9 sur PS4 pour les firmwares compris entre le 9.00 et 12.02.\u00a0\n\u00a0\nLe taux de r\u00e9ussite de 90%, la rapidit\u00e9 et la stabilit\u00e9 font de cette impl\u00e9mentation l'une des meilleures permettant de profiter de charger les payloads, et notamment GoldHEN sur une cl\u00e9 USB.\u00a0\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nPour ce faire, il suffit de graver le fichier Lapse.iso sur un disque Blu-ray et d'ins\u00e9rer le payload, par exemple GoldHEN, sur une cl\u00e9 USB, en la renommant en payload.bin.\n\u00a0\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Remote Jar Loader 1.1 + Lapse 1.0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209468/in-ps4-remote-jar-loader-v11-disponible-avec-lapse-10-1.png"
         }
     },
-    "news_18": {
+    "news_17": {
         "title": "[Switch] switch_AIO_LS_pack 5.20.1 disponible (MAJ)",
         "content": "Le pack switch_AIO_LS_pack continu ses \u00e9volutions et passe en version 5.20.1.\nPour rappel ce pack contient tout se qu'il faut pour le hack de toutes Switch pouvant lancer un hack en prenant en compte le maximum de configurations possibles.\nLe homebrew int\u00e9gr\u00e9 AIO_LS_pack_Updater permet d'installer/mettre \u00e0 jour le pack, le firmware et de faire tout un tas d'autres choses directement via la console (installation/mise \u00e0 jour du pack non recommand\u00e9e sur des SD en EXFAT \u00e0 cause de la corruption de donn\u00e9es possible avec ce format).\nLe mode Beta de l'application permet d'avoir les derni\u00e8res \u00e9volutions du pack ou du homebrew AIO_LS_pack_Updater, par contre ces versions peuvent \u00eatre instables.\n\u00a0\n\n\n\n\n\n\n\nDepuis cette news les \u00e9volutions sont les suivantes:\n- Changelog pour la version 5.20.0:\nDernier firmware compatible mis \u00e0 jour en version 20.3.0.\nMise \u00e0 jour d'Atmosphere, de Ultrahand-overlay et de Status-Monitor-Overlay vers la derni\u00e8re version de ceux-ci.\nAjout d'un package switch_AIO_LS_pack_Utilities pour Ultrahand-Overlay permettant d'effectuer certaines configurations ou actions (r\u00e9glage de la d\u00e9tection du port cartouche, activation/d\u00e9sactivation des redirections vers le Homebrew Menu, activation/d\u00e9sactivation de l'auto-boot de Hekate et red\u00e9marrages divers).\nMise \u00e0 jour du homebrew AIO_LS_pack_Updater en version 7.04.02 apportant les changements suivants:\nLa v\u00e9rification des sha256 pour le t\u00e9l\u00e9chargement du homebrew, du pack ou du fichier zip compl\u00e9mentaire au pack sont maintenant insensibles \u00e0 la casse. Notez que si vous avez fait la mise \u00e0 jour du pack entre la version 5.19.3B et 5.19.6B inclus et/ou que vous avez le homebrew en version 7.04.00 ou 7.04.01 vous devrez r\u00e9installer la derni\u00e8re version du homebrew manuellement \u00e0 cause de bugs qui se sont produits durant les mises \u00e0 jour et qui ont provoqu\u00e9 des erreurs lors de la v\u00e9rification des sha256.\nCorrection de bugs lors d'un \u00e9chec de v\u00e9rification du sha256 lors du t\u00e9l\u00e9chargement d'une mise \u00e0 jour du homebrew, le traitement ne s'arr\u00eatait pas malgr\u00e9 l'erreur.\n\n- Changelog pour la version 5.20.1:\nMise \u00e0 jour de AIO_LS_pack_utilities en version 1.0.1, corrige une erreur sur le patch pour activer/d\u00e9sactiver le port cartouche, celui-ci \u00e9tait invers\u00e9 et activait lorsqu'on d\u00e9sactivait et inversement.\nMise \u00e0 jour de Status-Monitor-Overlay vers la derni\u00e8re version de celui-ci.\nNote: Pour traiter les probl\u00e8mes particuliers de lancement de la sysnand en firmwares 17.0.0 et sup\u00e9rieurs c'est tr\u00e8s simple via ce pack. Une fois le pack mis en place sur la SD on boot sous Hekate (avec une puce \u00e7a se fera tout seul), \u00e0 l'affichage du tout premier logo on appui sur \"vol-\" pour annuler l'auto-boot r\u00e9gl\u00e9 dans Hekate par d\u00e9faut dans mon pack, on clique sur \"launch\" et enfin sur \"Atmosphere sysnand\", une fois le syst\u00e8me lanc\u00e9 on peut \u00e9teindre la console et voil\u00e0, la sysnand refonctionnera ensuite comme avant.\nNote 2: Les probl\u00e8mes de chauffe et de consommation excessive de la batterie qui peuvent se produire sur une minorit\u00e9 de consoles sur les firmwares 19.0.0 et sup\u00e9rieurs ne sont pas du fait du pack, cela semble venir du firmware mais on arrive pas \u00e0 savoir vraiment de quoi et se qu'il faut faire pour corriger le probl\u00e8me.\nN'h\u00e9sitez pas \u00e0 faire vos retours qu'ils soient positifs ou n\u00e9gatifs, ils seront les bienvenues tout comme le signalement de bugs ou encore la proposition d'am\u00e9liorations, c'est aussi une bonne fa\u00e7on de participer \u00e0 la sc\u00e8ne et de faire vivre les projets. Pour cela nous avons mis en place un questionnaire de satisfaction, en plus de pouvoir reporter les probl\u00e8mes sur Github ou sur le forum vous pouvez utiliser ce questionnaire pour nous donner vos opinions de fa\u00e7on anonyme (pour des probl\u00e8mes sp\u00e9cifiques il vaut mieux reporter sur Github ou ouvrir un sujet sur le forum, il y aura une r\u00e9ponse bien plus rapide et cela permet de demander plus de d\u00e9tails pour identifier et peut-\u00eatre r\u00e9soudre le possible probl\u00e8me.\nPour les d\u00e9tails des changelogs, le t\u00e9l\u00e9chargement et les instructions d'installation et d'utilisation du pack c'est sur cette page que \u00e7a se passe et vous avez aussi un tutoriel plus d\u00e9taill\u00e9 sur cette page, d'ailleurs ce dernier site contient aussi pas mal de tutoriels notamment sur la Switch. Enfin si vous souhaitez voir le changelog complet du pack il est consultable ici pour la version stable et ici pour la version beta.\nSi vous appr\u00e9ciez mon travail vous pouvez me faire une donation via ce lien si vous avez un compte Paypal (n'engendre pas de frais de transaction) ou via ce lien si vous n'avez pas de compte Paypal\n",
         "images": {
@@ -133,19 +126,28 @@
             "image_7": "https://www.logic-sunrise.com/images/validation/in-1560198606.jpg"
         }
     },
-    "news_19": {
+    "news_18": {
         "title": "[PS4] Lapse Kexploit serait op\u00e9rationnel avec BD-JB de Gezine",
         "content": "Le d\u00e9veloppeur Gezine a d\u00e9voil\u00e9 un screen qui montrerait qu'il aurait r\u00e9ussi \u00e0 lancer de mani\u00e8re op\u00e9rationnelle Lapse via un keploit, en le couplant avec son exploit BD-JB.\u00a0\n\u00a0\nIl disposerait donc d'un exploit complet entre son exploit BD-JB avec une utilisation conjointe de Lapse.\u00a0\n\u00a0\nBien entendu Lapse n'\u00e9tait compatible que jusqu'au firmware 12.02, cela ne fonctionnerait que jusque l\u00e0, mais ce serait d\u00e9j\u00e0 exceptionnel.\u00a0\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nIl doit retravailler le bin loader, et aussi peut \u00eatre propos\u00e9 un HEN pour d\u00e9voiler son travail, c'est du moins ce qu'il a r\u00e9pondu \u00e0 Zecoxao.\u00a0\n\u00a0\n\u00a0\nTout est l\u00e0 : gezine_dev\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209372/in-ps5-lapse-kexploit-serait-operationnel-avec-bd-jb-de-gezine-1.png"
         }
     },
-    "news_20": {
+    "news_19": {
         "title": "[XB360] Xenia Manager v3.1.0 disponible",
         "content": "Une nouvelle mise \u00e0 jour a \u00e9t\u00e9 publi\u00e9e pour Xenia Manager, le frontend con\u00e7u pour simplifier et am\u00e9liorer l'utilisation de l' \u00e9mulateur Xenia, d\u00e9di\u00e9 \u00e0 la console\u00a0 Xbox 360 est disponible en version 3.1.0.\u00a0\n\u00a0\nCette nouvelle version introduit le support de l'espagnol, avec la contribution d'ElTioRata, et impl\u00e9mente une gestion compl\u00e8te des profils, qui peuvent d\u00e9sormais \u00eatre d\u00e9crypt\u00e9s et crypt\u00e9s directement depuis l'application, avec la possibilit\u00e9 de changer le Gamertag sans aucune \u00e9tape externe.\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nDe nouvelles fonctions de visionneuses de r\u00e9ussites au jeu ont \u00e9t\u00e9 introduites, cette visionneuse affiche toutes les r\u00e9ussites d\u00e9verrouill\u00e9es et verrouill\u00e9es, avec des descriptions visibles lorsque vous passez la souris dessus, et inclut \u00e9galement une fonction cach\u00e9e pour les d\u00e9verrouiller manuellement.\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Xenia Manager v3.1.0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209359/in-xb360-xenia-manager-v310-disponible-1.png",
             "image_2": "https://www.logic-sunrise.com/images/news/1209359/in-xb360-xenia-manager-v310-disponible-2.png"
+        }
+    },
+    "news_20": {
+        "title": "[PS5] PS5 Shop Appkg disponible",
+        "content": "\u00a0\nLe d\u00e9veloppeur m0ur0ne propose son Shop pour la PS5 sous le nom de \" PS5 Shop Appkg \".\n\u00a0\n\u00a0\n\n\u00a0\n\n\u00a0\n\n\u00a0\n\u00a0\nCe shop PS5 permet de t\u00e9l\u00e9charger facilement des jeux depuis votre navigateur PS5, et d'installer facilement de nombreuses applications. D'ailleurs r\u00e9cemment de nouvelles fonctionnalit\u00e9s ont \u00e9t\u00e9 rajout\u00e9es tandis que d'autres seront rajout\u00e9es \u00e0 son retour de vacances.\u00a0\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\nURL : https://ps5shopappkg.pages.dev\u00a0\n\u00a0\nPKG : https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/PS5-SHOP-APPKG.pkg\n\u00a0\n\u00a0\n",
+        "images": {
+            "image_1": "https://www.logic-sunrise.com/images/news/1209353/in-ps5-ps5-shop-appkg-disponible-1.png",
+            "image_2": "https://www.logic-sunrise.com/images/news/1209353/in-ps5-ps5-shop-appkg-disponible-2.png",
+            "image_3": "https://www.logic-sunrise.com/images/news/1209353/in-ps5-ps5-shop-appkg-disponible-3.png"
         }
     }
 }
