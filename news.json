@@ -1,66 +1,73 @@
 {
     "news_1": {
+        "title": "[PS5] Markus d\u00e9voile l'adaptation de Genesis_plus_GX pour Retroarch PS5",
+        "content": "Le d\u00e9veloppeur Markus vient de d\u00e9voiler son adaptation du core de l'\u00e9mulateur Genesis_plus_GX pour Retroarch PS5, bien entendu cette adaptation permet de lancer Paprium sur PS5.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nUn tr\u00e8s grand merci Markus pour le travail effectu\u00e9.\u00a0\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : genesis_plus_gx_libretro_ps5\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
+        "images": {
+            "image_1": "https://www.logic-sunrise.com/images/news/1210023/in-ps5-markus-devoile-ladaptation-de-genesis-plus-gx-pour-retroarch-ps5-1.png"
+        }
+    },
+    "news_2": {
         "title": "[PS5] Lapse 1.2 disponible et ce sera le dernier",
         "content": "Le d\u00e9veloppeur Gezine vient de mettre en ligne une nouvelle version de son package Remote Jar Loader 1.2 + Lapse 1.2, vous le remarquerez c'est Lapse qui a \u00e9t\u00e9 mis \u00e0 jour.\u00a0\n\u00a0\nS'il n'y a pas d'autre bug bizarre, Lapse 1.2 sera la derni\u00e8re version de BD-J Lapse. Le d\u00e9veloppeur souhaite se concentrer sur d'autres choses, vous pouvez cr\u00e9er un fork du d\u00e9p\u00f4t et ajouter un menu, un payload ...\u00a0\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nChangelog :\n\u00a0\n- Ajout d'un correctif AIO pour Lapse 1.2 . Pour les utilisateurs de Lapse 1.0, 1.1 et 1.1b, consultez la section \u00ab 7. Ajout de correctifs AIO \u00e0 Lapse.iso \u00bb dans le fichier README.\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Remote Jar Loader 1.2 + Lapse 1.2\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1210022/in-ps5-lapse-12-disponible-et-ce-sera-le-dernier-1.jpg"
         }
     },
-    "news_2": {
+    "news_3": {
         "title": "[PS5] EchoStretch r\u00e9pond aux interpellations sur la disponibilit\u00e9 de kstuff",
         "content": "Le d\u00e9veloppeur EchoStretch s'est exprim\u00e9 sur la disponibilit\u00e9 de kstuff sur PS5, de nombreux utilisateurs lui demandent quand est ce qu'il sera disponible, alors qu'il est pr\u00e9f\u00e9rable de le laisser tranquille.\u00a0\n\u00a0\nAinsi il informe qu'il sait que de nombreuses personnes sont curieuses sur le progres r\u00e9alis\u00e9s sur kstuff, et quand est ce que tout sera fonctionnel. Il confirme qu'il y travaille chaque nuit qu'il peut le faire, et qu'il sent qu'il est proche de r\u00e9ussir, selon lui il ne s'agit probablement que d'une petite chose qui le bloque.\u00a0\n\u00a0\nD\u00e9sormais il check chaque partie du code par compartiment pour trouver exactement o\u00f9 est ce que cela bloque et qu'est ce qu'il se passe.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nIl rajoute que quelqu'un se sent capable de l'aider en mettant la main dessus, il n'est pas contre de l'aide, mais apr\u00e8s nous nous heurtons \u00e0 un probl\u00e8me de comp\u00e9tences, il dit n'avoir jamais refus\u00e9 de l'aide.\u00a0\n\u00a0\nDepuis qu'il travaille tous les jours, il n'a pas autant de temps de disponible (oui il a aussi un vie), donc les progr\u00e8s r\u00e9els se font surtout les week-ends. Le support de kstuff s'est arr\u00eat\u00e9 au 8.20, le d\u00e9veloppeur rappelant qu'il travaille seul.\u00a0\n\u00a0\nVous l'aurez compris, le mieux est de le laisser travailler en toute qui\u00e9tude.\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209985/in-ps5-echostretch-repond-aux-interpellations-sur-la-disponibilite-de-kstuff-1.png"
         }
     },
-    "news_3": {
+    "news_4": {
         "title": "[PS4] Un payload AIO de abc pour les firmwares 9.00 \u00e0 12.02",
         "content": "Clairement les d\u00e9veloppeurs sont d\u00e9chain\u00e9s, ils travaillent activement sur le firmware 12.02 de la PS4 afin de pouvoir lancer GoldHEN via PSFree.\u00a0\n\u00a0\nAinsi apr\u00e8s qu'un correctif tout en un (AIO) ait \u00e9t\u00e9 h\u00e9berg\u00e9 par abc en tant que payload, vous n'avez d\u00e9sormais plus besoin de corriger les bugs AIO via le plugin, hier cela ne concernait que le firmware 9.00 via plusieurs titres, comme GOW: Ragnarok, Vice City Definitive Edition ou encore Crash Bandicoot 4 par\u00a0kmeps4.\u00a0\n\u00a0\nAvec ce nouveau payload, le plugin \u00ab aio_fix_505.prx \u00bb n'est plus n\u00e9cessaire pour corriger les \u00e9crans noirs et les probl\u00e8mes de corruption des donn\u00e9es de sauvegarde dans certains jeux.\u00a0\n\u00a0\nCette nouvelle impl\u00e9mentation doit \u00eatre port\u00e9e sur les autres firmwares et \u00e0 commencer par le firmware 12.02 qui fonctionne comme vient de l'annoncer Gezine, cela devrait fonctionner sur tous les firmwares entre 9.00 et 12.02.\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : aio_patches.bin\n\u00a0\n",
         "images": {}
     },
-    "news_4": {
+    "news_5": {
         "title": "[PS3] Movian M7 7.0.194 pour PS3 mis \u00e0 jour par DeanK",
         "content": "La l\u00e9gendaire PS3 est toujours en vie, voil\u00e0 que DeanK propose la mise \u00e0 jour de Movian M7 en 7.0.194 pour la console de Sony. Il ne s'agit pas d'une simple mise \u00e0 jour, mais d'une refonte compl\u00e8te qui rend l'exp\u00e9rience PS3 plus fluide, plus r\u00e9active et plus agr\u00e9able que jamais. DeanK a optimis\u00e9 le code pour tirer le meilleur parti des ressources limit\u00e9es de la console, apportant ainsi des am\u00e9liorations concr\u00e8tes \u00e0 tous les niveaux.\n\u00a0\nMovian, connu anciennement sous le nom de ShowTime, est une version modifi\u00e9e du media center original qui avait \u00e9t\u00e9 lanc\u00e9 sur la PS3, et qui fonctionne aussi sur Android, Amazon Fire Stick, MacOS, Windows, Linux et Raspberry pi. Le media center s'appelait \u00e0 l'origine \"Showtime\" sur la PS3 mais a \u00e9t\u00e9 renomm\u00e9 \"Movian\" par le d\u00e9veloppeur original Andreas Oman.\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nAu programme de cette mise \u00e0 jour :\u00a0\n\u00a0\n- Ex\u00e9cutable 50 % plus petit, utilisation m\u00e9moire plus petite, optimisations\n- AUDIO : Transcodage corrig\u00e9\n- VID\u00c9O : Performances et indication de chargement am\u00e9lior\u00e9es\n- UI : La navigation dans les dossiers SMB/USB/locaux pendant la lecture vid\u00e9o fonctionne\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Movian M7 7.0.194 (9.1 Mo)\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209981/in-ps3-movian-m7-70194-pour-ps3-mis-a-jour-par-deank-1.png"
         }
     },
-    "news_5": {
+    "news_6": {
         "title": "[Switch] SwitchThemeInjector v4.8.2 et NxThemes Installer v2.8.2",
         "content": "De nouvelles mises \u00e0 jour pour SwitchThemeInjector et NxThemes Installer, le premier passe en v4.8.2 et le second en v2.8.2. Switch Theme Injector est charg\u00e9 d'appliquer des corrections automatiques comme les applications sur les fichiers common.szs et remplace facilement le fichier bntx. NXThemes Installer quand \u00e0 lui, comme son nom l'indique, permet d'installer les th\u00e8mes directement sur votre Nintendo Switch, il est compatible avec les NXThemes et szs.tv.\u00a0\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nChangelog :\n\u00a0\n- Cette version impl\u00e9mente la nouvelle API Themezer, corrigeant le probl\u00e8me n\u00b0152 .\n- De nombreuses fonctionnalit\u00e9s de compatibilit\u00e9 avec le firmware 20.0 restent inchang\u00e9es ; plus de d\u00e9tails sont disponibles dans l' article de la version pr\u00e9c\u00e9dente .\n\u00a0\nT\u00e9l\u00e9chargement : SwitchThemeInjector v4.8.2 et NxThemes Installer v2.8.2\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209976/in-switch-switchthemeinjector-v482-et-nxthemes-installer-v282-1.png"
         }
     },
-    "news_6": {
+    "news_7": {
         "title": "[PS4] L'interface GUI DroidPPPwn v1.4.2 disponible",
         "content": "\u00a0\nDroidPPPwn est une nouvelle application Android qui permet d\u2019ex\u00e9cuter l\u2019exploit PPPwn sur la console PlayStation 4 en utilisant votre smartphone.\u00a0\n\u00a0\nDroidPPPwn est une interface graphique (GUI) pour l\u2019exploit PPPwn sur PS4, elle inclut le binaire PPPwn_cpp sp\u00e9cifiquement compil\u00e9 pour arm-android, ainsi que les fichiers stage1.bin et stage2.bin pour tous les firmwares pris en charge (du firmware 7.00 au 11.00).\u00a0\n\u00a0\nDans cette nouvelle version 1.4.2, tous les fichiers stage2.bin ont \u00e9t\u00e9 mis \u00e0 jour vers la version 1.05 afin de prendre en charge GoldHEN 2.4b18.5, ce qui active les supports des firmwares PS4 7.xx, 8.xx et 9.xx qui \u00e9taient jusqu'alors manquants.\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nExigences :\n\u00a0\n- Un t\u00e9l\u00e9phone Android r\u00e9cent root\u00e9 prenant en charge l\u2019OTG.\n- Un c\u00e2ble ou un adaptateur USB OTG.\n- Un adaptateur USB Ethernet.\n- Un c\u00e2ble Ethernet.\n\u00a0\n\u00a0\nUtilisation :\n\u00a0\n- T\u00e9l\u00e9chargez la derni\u00e8re version depuis ce d\u00e9p\u00f4t et installez-la sur votre t\u00e9l\u00e9phone Android.\n- Sur votre PS4, suivez les instructions de l\u2019exploit PPPwn original pour configurer la connexion Ethernet.\n- Lancez l\u2019application DroidPPPwn et s\u00e9lectionnez le firmware de votre PS4.\n- Appuyez sur le bouton \u201cStart\u201d dans l\u2019application et simultan\u00e9ment sur la touche \u201cX\u201d de votre manette lorsque vous \u00eates sur l\u2019\u00e9cran de test de la connexion Internet.\n- Attendez que l\u2019exploit atteigne l\u2019\u00e9tape 4 et que le message s\u2019affiche sur votre \u00e9cran. Si l\u2019exploit \u00e9choue, appuyez \u00e0 nouveau sur le bouton \u201cStart\u201d pour l\u2019arr\u00eater et r\u00e9p\u00e9tez la derni\u00e8re \u00e9tape.\n\u00a0\nT\u00e9l\u00e9chargement : DroidPPPwn v1.4.2\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209742/in-ps4-linterface-gui-droidpppwn-v142-disponible-1.png"
         }
     },
-    "news_7": {
+    "news_8": {
         "title": "[PS4] PS4_db_Rebuilder_EXT adapt\u00e9 au firmware 12.00 et 12.02",
         "content": "Un utilisateur de PS4, Dragonixplay, s'est demand\u00e9 si PS4_db_Rebuilder_EXT \u00e9tait compatible avec les firmwares r\u00e9cents, apr\u00e8s avoir effectu\u00e9 quelques tests sur le firmware 12.00 de sa PS4, il s'est apper\u00e7u que le programme ne fonctionne pas.\u00a0\n\u00a0\nSi vous reconstruisez la base de donn\u00e9es et que les fichiers fpkg disparaissent, ce programme la reconstruira \u00e0 nouveau, y compris les fichiers fpkg. Auparavant, cela n'\u00e9tait possible que jusqu'au firmware 11.00 de PS4.\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nApr\u00e8s avoir multipli\u00e9 les \u00e9checs de restauration, il a adapt\u00e9 PS4_db_Rebuilder_EXT au firmware 12.00, et il propose aussi la version pour le firmware 12.02, mais il n'a pas pu la tester.\n\u00a0\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement :\n\u00a0\nPS4_db_Rebuilder_EXT-0.1__--_12.00\n\u00a0\nPS4_db_Rebuilder_EXT-0.1__--_12.02\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209735/in-ps4-ps4-db-rebuilder-ext-adapte-au-firmware-1200-et-1202-1.png"
         }
     },
-    "news_8": {
+    "news_9": {
         "title": "[PS4] PS4PKGinstaller v1.11 disponible",
         "content": "Le d\u00e9veloppeur CiborgEC vient de d\u00e9voiler une nouvelle version de son programme PS4PKGinstaller qui est maintenant affubl\u00e9 de la num\u00e9rotation v1.11.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nChangelog :\u00a0\n\u00a0\n- Identique \u00e0 la version 1.10EA.\n- Possibilit\u00e9 de le lancer \u00e0 partir d'une cl\u00e9 USB.\n- Fonction de d\u00e9sinstallation int\u00e9gr\u00e9e pour les PKG install\u00e9s sur une cl\u00e9 USB.\n- Correction d'un bug qui d\u00e9sinstallait le jeu de base lors de l'installation d'un DLC pkg.\n\u00a0\nN'oubliez pas que si vous avez d\u00e9plac\u00e9 un paquet vers une cl\u00e9 USB, vous devez utiliser le programme de d\u00e9sinstallation PS4PKGinstaller ou d\u00e9connecter la cl\u00e9 USB avant de le d\u00e9sinstaller depuis le menu principal. Les paquets seront d\u00e9plac\u00e9s vers le dossier PS4_APPS, le programme de d\u00e9sinstallation les ram\u00e8ne \u00e0 leur emplacement d'origine.\n\u00a0\nPour rappel, la version 1.10EA avait amen\u00e9 :\u00a0\n\u00a0\n- Vous pouvez d\u00e9sormais d\u00e9placer un jeu d\u00e9j\u00e0 install\u00e9 et sa mise \u00e0 jour (en option) et y jouer depuis un p\u00e9riph\u00e9rique USB, lib\u00e9rant ainsi de l'espace de stockage sur le disque dur.\u00a0\n- Fonction de d\u00e9sinstallation int\u00e9gr\u00e9e pour les PKG install\u00e9s sur une cl\u00e9 USB.\u00a0\n\u00a0\nCette version 1.10EA n'avait \u00e9t\u00e9 accessible qu'aux contributeurs, l\u00e0 la v1.11 est accessible \u00e0 toutes et tous.\u00a0\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : PS4PKGinstaller v1.11 (93.38 MB)\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209734/in-ps4-ps4pkginstaller-v111-disponible-1.jpg"
         }
     },
-    "news_9": {
+    "news_10": {
         "title": "[Switch] AtmoPack-Vanilla v3.0.6 disponible",
         "content": "\u00a0\nLe d\u00e9veloppeur THZoria nous annonce la version 3.0.6 d'AtmoPack, AtmoPack est un pack tout-en-un qui permet de proposer tout ce qu'il y a de plus int\u00e9ressant pour une Switch hackable. LS tient encore une fois \u00e0 remercier la Team PoyoNX pour cette solution.\u00a0\n\u00a0\nDans cette nouvelle version 3.0.6, AtmoPack-Updaters a \u00e9t\u00e9 mis \u00e0 jour vers la version 2.0.3. AtmoPack-Updaters \u00e9tait auparavant d\u00e9velopp\u00e9 par notre ami et partenaire PoloNX, mais comme il n'est plus actif sur la sc\u00e8ne, l'homebrew a \u00e9t\u00e9 repris et modifi\u00e9.\n\u00a0\nCode source : https://github.com/THZoria/AtmoPackUpdater\n\u00a0\nPour refl\u00e9ter ce changement, nxlinks a \u00e9galement \u00e9t\u00e9 mis \u00e0 jour, ce qui permet aux updaters de d\u00e9tecter les mises \u00e0 jour : https://github.com/THZoria/nx-links/\n\u00a0\n- Projet enti\u00e8rement d\u00e9plac\u00e9 sur mon propre GitHub afin que je puisse le g\u00e9rer plus facilement (fork)\n- Modification des constantes en fonction du premier point\n- Modification du script de d\u00e9tection des mises \u00e0 jour du Pack, des homebrews et du firmware, notamment pour utiliser mon GitHub au lieu de Codeberg pour AtmoPack-Vanilla (seule la derni\u00e8re version est prise en compte pour le moment)\n- Mise \u00e0 jour de la d\u00e9tection des homebrews et des sysmodules corrig\u00e9e afin que si le d\u00e9p\u00f4t a \u00e9t\u00e9 supprim\u00e9/modifi\u00e9 ou d\u00e9fini comme priv\u00e9, il soit ignor\u00e9.\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nContenu de cette version 3.0.6 :\u00a0\n\u00a0\n- Atmosphere (v1.9.3)\n- Atmosphere-Fusee (v1.9.3\n- Hekate (v6.3.1)\n- 90DNSTester (v1.0.4)\n- DBI (v658en)\n- FTPD (v3.2.1)\n- JKSV (v11/05/2024)\n- EdiZon (v3.1.0)\n- Goldleaf (v1.0.0)\n- Sys-Patch (v1.5.6)\n- Atmosphere-Hekate-Config (v1.0.0)\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : AtmoPack-Vanilla v3.0.6\n\u00a0\n\u00a0\nMerci Linkynimes pour l'information\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/validation/in-1964465810.png"
         }
     },
-    "news_10": {
+    "news_11": {
         "title": "[Switch 2] Peta demande un retrait dans Mario Kart World",
         "content": "L'association PETA (Pour une \u00c9thique dans le Traitement des Animaux) demande le retrait de l'anneau de la vache dans Mario Kart World, pour PETA cet anneau nasal est un outil de cruaut\u00e9 qui provoque douleur et inconfort.\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nLe dernier opus de la franchise Mario Kart a ajout\u00e9 plusieurs personnages uniques, dont la possibilit\u00e9 de piloter l'une des vaches du circuit de la Ferme Meuh-Meuh. PETA a adress\u00e9 une lettre au pr\u00e9sident de Nintendo, Shuntaro Furukawa, pour lui demander de modifier le personnage. L'association rajoute que cela correspond \u00e0 un acte de cruaut\u00e9 et qu'il ne devrait pas figurer dans le design du personnage.\n\u00a0\n\u00a0\nOn sait que Mario Kart World n'est qu'un jeu, et c'est pr\u00e9cis\u00e9ment pour \u00e7a que l'anneau nasal de la Vache doit dispara\u00eetre. Mario Kart est cens\u00e9 \u00eatre une \u00e9vasion amusante, pas un rappel des outils douloureux utilis\u00e9s sur les vaches dans les industries de la viande et des produits laitiers. Personne n'a envie de penser \u00e0 la souffrance animale en roulant sur un circuit.\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nCe n'est pas nouveau non plus, PETA avait d\u00e9j\u00e0 d\u00e9nonc\u00e9 le traitement abusif envers les poissons et les insectes, o\u00f9 les joueurs peuvent arracher des animaux sauvages de leurs maisons et les exposer dans des vitrines exigu\u00ebs dans un mus\u00e9e dans Animal Crossing: New Horizons.\n\u00a0\nDans Palworld, o\u00f9 les joueurs battent et capturent des amis sauvages et les exploitent pour la nourriture et les v\u00eatements, ou encore la maltraitance dans Pokemon Noir et Bleu.\u00a0\n\u00a0\n\u00a0\nTout est l\u00e0 : peta-mario-kart-world-controversy-cow-nose\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
@@ -68,14 +75,14 @@
             "image_2": "https://www.logic-sunrise.com/images/news/1209611/in-switch-2-peta-demande-un-retrait-dans-mario-kart-world-2.png"
         }
     },
-    "news_11": {
+    "news_12": {
         "title": "[XB360] BadStick v1.4B pour simplifier l'exploit BadUpdate",
         "content": "Le d\u00e9veloppeur Klepto d\u00e9voile la version 1.4B de BadStick, l'outil qui permet de simplifier la cr\u00e9ation de la cl\u00e9 USB compatible FAT32 pour l'exploit BadUpdate pour les consoles Xbox 360.\n\u00a0\nL'outil copie et configure automatiquement les fichiers essentiels, y compris la version d'essai gratuite de Rock Band Blitz , qui est n\u00e9cessaire pour d\u00e9clencher la vuln\u00e9rabilit\u00e9 utilis\u00e9e par l'exploit.\n\u00a0\nBadStick inclut \u00e9galement XeXMenu 1.2 , l'un des dashboards et gestionnaires de fichiers homebrews les plus populaires pour les consoles Xbox 360 , et offre la possibilit\u00e9 d'ajouter des applications homebrew suppl\u00e9mentaires au choix de l'utilisateur, cr\u00e9ant ainsi une configuration personnalis\u00e9e et pr\u00eate \u00e0 l'emploi.\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nChangelog v1.4B :\n\u00a0\n- Options de support ajout\u00e9es.\n- Option ajout\u00e9e pour ignorer le formatage.\n- Option ajout\u00e9e pour ignorer les fichiers principaux.\n- Probl\u00e8me de sortie corrig\u00e9 \u00e0 la fin.\n- Correction d'un probl\u00e8me o\u00f9 le programme se fermait quels que soient les param\u00e8tres.\n- Correction d'une erreur qui apparaissait lorsque le p\u00e9riph\u00e9rique USB avait un nom d\u00e9fini.\n- Correction de quelques fautes d'orthographe triviales (oups).\n- Correction de l'\u00e9norme logo\u00a0 Xbox Live\n- Modifications mineures et changements d'interface.\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : BadStick v1.4B\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209608/in-xb360-badstick-v14b-pour-simplifier-lexploit-badupdate-1.png"
         }
     },
-    "news_12": {
+    "news_13": {
         "title": "[2DS/3DS] Snes9x 3DS v1.52 disponible",
         "content": "\u00a0\nLe d\u00e9veloppeur matbo87, qui avait repris le travail de bubble2k16 sur une version personnalis\u00e9e de l'\u00e9mulateur Snes9x sur Nintendo 3DS, propose une nouvelle version de son \u00e9mulateur qui est maintenant livr\u00e9 en v1.52.\u00a0\n\u00a0\nAu programme par rapport \u00e0 la v1.51.1, une s\u00e9curit\u00e9 des threads am\u00e9lior\u00e9e pour \u00e9viter les plantages dus \u00e0 l'acc\u00e8s simultan\u00e9 \u00e0 la liste ROM, une am\u00e9lioration de la stabilit\u00e9 de l'arr\u00eat en corrigeant les probl\u00e8mes de nettoyage des ressources, et enfin de nouvelles options d'affichage ajout\u00e9es.\n\u00a0\n\u00a0\n\n\u00a0\n\n\u00a0\n\u00a0\nChangelog 1.52 :\u00a0\n\u00a0\nCorrections de bugs\n- S\u00e9curit\u00e9 des threads : emp\u00eache le thread de cache d'acc\u00e9der romFileNamespendant qu'il est modifi\u00e9 par le thread principal\u00a0\n- Stabilit\u00e9 \u00e0 l'arr\u00eat : s'assure que tous les shops globaux/statiques sont correctement effac\u00e9s \u00e0 la sortie pour \u00e9viter les plantages tardifs li\u00e9s \u00e0 l'ordre de destruction\u00a0\n- Mappage de la ROM : correction d'un mappage incorrect de la banque de m\u00e9moire pour Mega Man X (et probablement d'autres ROM)\u00a0\n\u00a0\nCaract\u00e9ristiques\n- \u00c9tirement de l'\u00e9cran : ajout de l'option de mise \u00e0 l'\u00e9chelle \u00ab 4:3 \u00bb\u00a0\n- Filtre d'\u00e9cran : ajout de l'option \u00ab filtrage lin\u00e9aire \u00bb\u00a0\n\u00a0\nRefonte de code\n- Performances : annule le commit 8d50f5 en raison d'un impact n\u00e9gatif sur les performances\u00a0\n- Shader : suppression des shaders inutilis\u00e9s + ajustement du makefile\u00a0\n\u00a0\n\u00a0\nDe quoi ressortir nos bonnes vieilles 3DS ou New3ds / New2DS ?\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Snes9x 3DS v1.52\n\u00a0\n\u00a0\n",
         "images": {
@@ -83,60 +90,53 @@
             "image_2": "https://www.logic-sunrise.com/images/news/1209573/in-2ds3ds-snes9x-3ds-v152-disponible-2.png"
         }
     },
-    "news_13": {
+    "news_14": {
         "title": "[3DS] La version finale de l'\u00e9mulateur 3DS Azahar est disponible en 2123",
         "content": "Apr\u00e8s quelques b\u00eatas, et quelques release candidate dont nous n'avons pas fait \u00e9cho, voil\u00e0 la version finale r\u00e9vision 2123 de l'\u00e9mulateur 3DS Azahar issu d'un fork de Citra d\u00e9velopp\u00e9 par PabloMK7 et Lime3DS.\n\u00a0\nBeaucoup d'\u00e9l\u00e9ments ont \u00e9volu\u00e9 depuis la 2122, sur de nombreux correctifs g\u00e9n\u00e9raux, mais aussi sp\u00e9cifiques \u00e0 Android, MacOS, Windows ou bien m\u00eame techniques comme en atteste le changelog.\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nQuelques points importants :\u00a0\n\u00a0\n- Le cache des shaders sous Vulkan sera invalid\u00e9, donc le stuttering r\u00e9appara\u00eetra sur les parties d\u00e9j\u00e0 jou\u00e9es jusqu'\u00e0 ce que le cache soit r\u00e9g\u00e9n\u00e9r\u00e9.\u00a0\n- Comme d'habitude, les sauvegardes des versions pr\u00e9c\u00e9dentes cesseront de fonctionner\u00a0\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Azahar 2123\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209568/in-3ds-la-version-finale-de-lemulateur-3ds-azahar-est-disponible-en-2123-1.jpg"
         }
     },
-    "news_14": {
+    "news_15": {
         "title": "[PS4] PKG-BackUP supporte les firmwares 3.00 \u00e0 12.02",
         "content": "Comme chaque ann\u00e9e depuis 3 ans, le d\u00e9veloppeur kmeps4 propose sa mise \u00e0 jour de PKG-BackUP, il s'agit l\u00e0 de la version 1.3 qui am\u00e8ne le support des firmwares PS4 3.00 \u00e0 12.02.\n\u00a0\nPKG-BackUP est une version modifi\u00e9e d'App Dumper qui permet de sauvegarder les fichiers PKG sur un disque dur externe.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nVersion 1.0 :\n- Ajout de la possibilit\u00e9 d'automatiser et de copier la base, la mise \u00e0 jour et le DLC PKG des applications/jeux d\u00e9j\u00e0 install\u00e9s sur un disque dur externe.\n\u00a0\nVersion 1.1 :\n- Ajout du fichier de configuration \u00ab config.cfg \u00bb, cela permettra \u00e0 l'utilisateur de configurer les param\u00e8tres suivants (vous devez ajouter ce fichier \u00e0 la racine du disque dur externe)\u00a0\n- Ajout de la compatibilit\u00e9 avec le lecteur de stockage \u00e9tendu sur /mnt/ext0/..\n- Ajout d'une notification de progression du pourcentage de copie.\n\u00a0\nVersion 1.3 :\u00a0\n- Ajout de la prise en charge du firmware PS4 de 3.00 \u00e0 12.02\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : PKG-BackUP 1.3\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209566/in-ps4-pkg-backup-supporte-les-firmwares-300-a-1202-1.png"
         }
     },
-    "news_15": {
+    "news_16": {
         "title": "[PS4/PS5] Laps3c0re une future possibilit\u00e9 de jeux PS2 sur PS4 et PS5",
         "content": "Le d\u00e9veloppeur iMrDJAi a d\u00e9voil\u00e9 la version 1.0 de Laps3c0re, en d\u00e9veloppement depuis quelques semaines, il s'agit d'une fusion entre un portage de Lapse, l'impl\u00e9mentation d'abc, et de Mast1c0re, le point d'entr\u00e9e de McCaulay.\u00a0\n\u00a0\nUn script qui se nomme mast1c0re-send-file.py permet lui d'envoyer les payloads, et certaines fonctions permettent elles d'agir sur les paquets r\u00e9seaux et les m\u00e9moires tampons.\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nSur PS4, les firmwares 9.00, 9.03, 9.04, 9.50, 9.51, 9.60, 10.00, 10.01, 10.50, 10.70, 10.71 et 11.00 sont pris en charge, ce n'est pas le cas des firmwares 11.02, 11.50, 11.52, 12.00 et 12.02 dont le d\u00e9veloppement est toujours en cours, les versions ult\u00e9rieures, telles que 12.50 et sup\u00e9rieures, ne sont actuellement pas prises en charge.\n\u00a0\nLe d\u00e9veloppeur l'a d\u00e9j\u00e0 annonc\u00e9, Laps3c0re sera disponible en standalone sans besoin de loader ELF, et il faut disposer d'une copie de Okage : Shadow King.\n\u00a0\nL'id\u00e9e premi\u00e8re de Laps3c0re, tout comme celle de mast1c0re est d'apporter le support des backups PS2 sur PS4 et PS5, on s'en approche.\u00a0\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Laps3c0re v1.00\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209565/in-ps4ps5-laps3c0re-une-future-possibilite-de-jeux-ps2-sur-ps4-et-ps5-1.png"
         }
     },
-    "news_16": {
+    "news_17": {
         "title": "[Switch] NXMilk supporte d\u00e9sormais les CD, DVD et Blu-ray",
         "content": "L'homebrew NXMilk supporte d\u00e9sormais les CD audio, les DVD et les Blu-ray, de quoi apporter une r\u00e9elle diversit\u00e9 de source \u00e0 la Switch.\u00a0\n\u00a0\nComme vous pouvez vous en doutez, cela ne fonctionne qu'avec un lecteur de disque externe, mais le logiciel peut d\u00e9sormais lire les formats USB notamment avec l'appui de la biblioth\u00e8que libusbdvd.\u00a0\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nEt NXMilk supporte dans sa version 0.3.0 :\u00a0\n\u00a0\n- Support USB-DVD USB-BD Drive\n- Support ISO9660 avec Joliet\u00a0\n- Support RockRidge\u00a0\n- Support UDF 1.02\u00a0\n- Support CD-ROM\u00a0\n- Support DVD-ROM and\u00a0\n- Support BD-ROM (BD lack UDF 2.60)\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : NXMilk 0.3.0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209544/in-switch-nxmilk-supporte-desormais-les-cd-dvd-et-blu-ray-1.jpg"
         }
     },
-    "news_17": {
+    "news_18": {
         "title": "[PS5] Le HEN 2.0 sera bient\u00f4t propos\u00e9 par Flatz",
         "content": "Il est d\u00e9sormais acquis qu'un HEN 2.0 est dans les tuyaux, il s'agira d'un HEN qui fonctionnera sur PS5 et qui permettra de lancer des FPKG PS5, et qui permettra aussi de les installer en plus de les lancer.\u00a0\n\u00a0\nM\u00eame s'il est encore trop t\u00f4t pour en parles en d\u00e9tails, Zecoxao annonce que ce HEN 2.0 supportera les FPKG PS4 et PS5, il y aura aussi le support des DLC et des correctifs de mise \u00e0 jour.\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nSelon lui le HEN 2.0 sera en th\u00e9orie accessible du firmware 1.xx au 10.01 sur PS5, ce sont les seuls qui sont sensibles, c'est d'ailleurs pour cela qu'il va \u00eatre publi\u00e9, c'est parce qu'aucune possibilit\u00e9 de le lancer sur un firmware plus r\u00e9cent n'est actuellement possible.\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209542/in-ps5-le-hen-20-sera-bientot-propose-par-flatz-1.jpg"
         }
     },
-    "news_18": {
+    "news_19": {
         "title": "[3DS/2DS] Red Viper 1.1.0 disponible",
         "content": "\u00a0\nLe d\u00e9veloppeur Skyfloogle propose une nouvelle version de son \u00e9mulateur Virtual Boy, Red Viper, qui est maintenant propos\u00e9 en v1.1.0. Red Viper c'est le meilleur \u00e9mulateur de Virtual Boy sur les Nintendo 2DS et Nintendo 3DS, et cette version confirme encore que skyfloogle assure un soutien sans faille.\u00a0\n\u00a0\nDans cette version, le moteur de rendu logiciel a \u00e9t\u00e9 am\u00e9lior\u00e9 et activ\u00e9 sur New3DS afin de corriger un bug graphique, et certains plantages ont \u00e9t\u00e9 supprim\u00e9s.\u00a0\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\nChangelog :\u00a0\n\u00a0\n- Am\u00e9lioration du moteur de rendu logiciel et activation de celui-ci pour la chambre de test sur la nouvelle 3DS, correction des murs noirs transparents\n- Correction de l'instruction XB qui ne s'enregistre pas lorsque le registre est en m\u00e9moire, ce qui entra\u00eene des plantages dans le mini-jeu de tir de com\u00e8tes dans l'\u00e9tape Colony de Galactic Pinball (#87)\n- Nombreuses am\u00e9liorations apport\u00e9es \u00e0 l'interpr\u00e8te\n- Ces modifications n'affectent aucun jeu existant, mais facilitent le test de l'\u00e9mulateur dans des environnements alternatifs\n\u00a0\nT\u00e9l\u00e9chargement : Red Viper 1.1.0\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209532/in-3ds2ds-red-viper-110-disponible-1.png"
         }
     },
-    "news_19": {
+    "news_20": {
         "title": "[Wii/GC] Swiss v0.6r1913 disponible",
         "content": "\u00a0\nLe d\u00e9veloppeur Extrems vient de mettre en ligne une version importante de son outil Swiss, et il faut avouer qu'il n'a pas fait semblant, les nouveaut\u00e9s sont tr\u00e8s nombreuses dans cette v0.6r1913.\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\n- Ignore le lecteur de disque dont la date de compilation du firmware est nulle.\n- Mise \u00e0 jour l'apploader. (extremscorner/cubeboot-tools@d9d7ed6)\n- Paquet pour PicoLoader.\n- Mise \u00e0 jour l'apploader. (extremscorner/cubeboot-tools@3452404)\n- Ajout d'une option de mode de d\u00e9marrage du syst\u00e8me.\n- Correction de la s\u00e9lection du mode vid\u00e9o avec NTSC Revision 1.0.\n- Affichage de l'\u00e9tat de d\u00e9tection des emplacements m\u00e9moire A et B.\n- Mise \u00e0 jour de l'apploader. (extremscorner/cubeboot-tools@a30f3ed)\n- Correction de la d\u00e9tection des cartes m\u00e9moire.\n- Ajustement pour les modifications libogc2.\n- Reconnaissance de la carte m\u00e9moire MemCard PRO GC.\n- Rapport coh\u00e9rent du nombre de blocs de la carte m\u00e9moire.\n- Renommer le d\u00e9marrage via IPL pour charger le menu principal GameCube.\n- Noircir la vid\u00e9o de mani\u00e8re coh\u00e9rente.\n- Priorit\u00e9 r\u00e9duite de la fonction de r\u00e9initialisation de l'ID du jeu.\n- Mise \u00e0 jour de la base de donn\u00e9es Redump. Une toute premi\u00e8re version de l'\u00e9mulateur Flycast est disponible.\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Swiss v0.6r1913\n\u00a0\n",
         "images": {
             "image_1": "https://www.logic-sunrise.com/images/news/1209529/in-wiigc-swiss-v06r1913-disponible-1.jpg"
-        }
-    },
-    "news_20": {
-        "title": "[PS4] Remote Jar Loader v1.2 disponible avec Lapse 1.1",
-        "content": "Le d\u00e9veloppeur Gezine propose la version 1.1 de Remote Jar Laoder, il s'agit en fait d'une mise \u00e0 jour de l'exploit BD-JB-1250 qui int\u00e8gre d\u00e9sormais la version 1.0 de Lapse, le Kexploit utilis\u00e9 sur PS4 pour les firmwares compris entre le 9.00 et 12.02.\u00a0\n\u00a0\nLe taux de r\u00e9ussite de 90%, la rapidit\u00e9 et la stabilit\u00e9 font de cette impl\u00e9mentation l'une des meilleures permettant de profiter de charger les payloads, et notamment GoldHEN sur une cl\u00e9 USB.\u00a0\n\u00a0\n\u00a0\n\u00a0\n\n\u00a0\n\u00a0\n\u00a0\nPour ce faire, il suffit de graver le fichier Lapse.iso sur un disque Blu-ray et d'ins\u00e9rer le payload, par exemple GoldHEN, sur une cl\u00e9 USB, en la renommant en payload.bin.\n\u00a0\n\u00a0\n\u00a0\nT\u00e9l\u00e9chargement : Remote Jar Loader 1.1 + Lapse 1.0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n",
-        "images": {
-            "image_1": "https://www.logic-sunrise.com/images/news/1209468/in-ps4-remote-jar-loader-v11-disponible-avec-lapse-10-1.png"
         }
     }
 }
